@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use CA-TradeoffEval, please cite the accompanying preprint."
 title: "CA-TradeoffEval"
 type: software
+repository-code: "https://github.com/spriha211/CA-TradeoffEval"
 authors:
   - family-names: "Pradeep"
     given-names: "Spriha"
