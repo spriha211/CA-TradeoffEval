@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use CA-TradeoffEval, please cite the accompanying preprint."
+title: "CA-TradeoffEval"
+type: software
+authors:
+  - family-names: "Pradeep"
+    given-names: "Spriha"
+    orcid: "https://orcid.org/0009-0009-9451-7660"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Pradeep"
+      given-names: "Spriha"
+      orcid: "https://orcid.org/0009-0009-9451-7660"
+  title: "When AI Agents Talk, What Information Gets Lost? A controlled study of independent analysis, debate, and source-grounded criticism"
+  year: 2026
+  doi: "10.5281/zenodo.22715133"

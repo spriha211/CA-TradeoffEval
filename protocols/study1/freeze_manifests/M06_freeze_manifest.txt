@@ -1,0 +1,33 @@
+CA-TRADEOFFBENCH M06 FREEZE MANIFEST
+
+Created at UTC: 2026-07-24T15:48:17.958026+00:00
+Measure: M06 — California Proposition 5 (2024)
+Study role: confirmatory
+
+Freeze timing:
+Frozen before any M06 model outputs were generated.
+
+Validated structure:
+High-level claims: 9
+Atomic components: 29
+
+Raw file SHA-256 hashes:
+9cf9b43553a89b8ebcfeabc693653d7881feb2359c32bb44ed1ab53a57a485a2  data/source_documents/M06.txt
+c4c29d6220d66f97eb72920106509495e8f20fdab0849baf0c7723a049d651ba  data/source_documents/M06_official.pdf
+946aa30f21b0816e245d465ca03ec75ec7f7e0124d652ff70b4083f3d6bb5cf9  data/reference_inventories/M06_inventory.csv
+3eea2691b0b3f5a837dfbc901ff610967d1f73d4eb1bc946d9edc553ba91bbe9  data/reference_inventories/M06_components.csv
+4052ea3dc9caa99a3a9de1071a27488397264cd8657bb29b44984e198f71586b  paper/M06_prefreeze_audit.md
+90e45cff62b0c6a1a26bcece07da402f73a3b05898a8c9dc85833a7f17874da0  data/reference_inventories/SCORING_GUIDE.md
+20b7e4334ceed4c4036e13bff3c602c7b4cc33f751c836f4214186ab4a081c9f  data/reference_inventories/INVENTORY_CONSTRUCTION_GUIDE.md
+f2e53bc08b77e3d4279f41b9d87d71881f9b38a85c1e84a4c225a9b52d24a94a  paper/protocol_v1_1.md
+
+Runner-normalized M06 source-text SHA-256:
+ead73bfa4453bcfb7bdbbf3fd54377210e785e17294cb15718bfd052bcf03360
+
+Hash convention:
+Raw hashes cover exact file bytes.
+Runner source hashing uses UTF-8 text after .strip().
+
+Freeze rule:
+M06.txt, M06_inventory.csv, and M06_components.csv
+must not be changed based on subsequently generated outputs.

@@ -1,0 +1,1239 @@
+{
+  "analysis_code": {
+    "path": "src/analysis/post_lock_analysis.py",
+    "sha256": "456ba5165acb1cff9e32c0f18785ca900d4dbbc6ae7df18cc1ff7554179bd8d3"
+  },
+  "blind_id_condition_trial_mapping": [
+    {
+      "blind_id": "M02-B001",
+      "condition": "independent_ensemble",
+      "measure_id": "M02",
+      "trial_id": "M02-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M02-B002",
+      "condition": "independent_ensemble",
+      "measure_id": "M02",
+      "trial_id": "M02-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M02-B003",
+      "condition": "normal_debate",
+      "measure_id": "M02",
+      "trial_id": "M02-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M02-B004",
+      "condition": "critic_debate",
+      "measure_id": "M02",
+      "trial_id": "M02-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M02-B005",
+      "condition": "single_agent",
+      "measure_id": "M02",
+      "trial_id": "M02-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M02-B006",
+      "condition": "single_agent",
+      "measure_id": "M02",
+      "trial_id": "M02-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M02-B007",
+      "condition": "single_agent",
+      "measure_id": "M02",
+      "trial_id": "M02-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M02-B008",
+      "condition": "independent_ensemble",
+      "measure_id": "M02",
+      "trial_id": "M02-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M02-B009",
+      "condition": "normal_debate",
+      "measure_id": "M02",
+      "trial_id": "M02-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M02-B010",
+      "condition": "critic_debate",
+      "measure_id": "M02",
+      "trial_id": "M02-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M02-B011",
+      "condition": "normal_debate",
+      "measure_id": "M02",
+      "trial_id": "M02-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M02-B012",
+      "condition": "single_agent",
+      "measure_id": "M02",
+      "trial_id": "M02-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M02-B013",
+      "condition": "critic_debate",
+      "measure_id": "M02",
+      "trial_id": "M02-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M02-B014",
+      "condition": "independent_ensemble",
+      "measure_id": "M02",
+      "trial_id": "M02-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M02-B015",
+      "condition": "normal_debate",
+      "measure_id": "M02",
+      "trial_id": "M02-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M02-B016",
+      "condition": "critic_debate",
+      "measure_id": "M02",
+      "trial_id": "M02-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M03-B001",
+      "condition": "independent_ensemble",
+      "measure_id": "M03",
+      "trial_id": "M03-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M03-B002",
+      "condition": "normal_debate",
+      "measure_id": "M03",
+      "trial_id": "M03-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M03-B003",
+      "condition": "single_agent",
+      "measure_id": "M03",
+      "trial_id": "M03-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M03-B004",
+      "condition": "normal_debate",
+      "measure_id": "M03",
+      "trial_id": "M03-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M03-B005",
+      "condition": "independent_ensemble",
+      "measure_id": "M03",
+      "trial_id": "M03-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M03-B006",
+      "condition": "single_agent",
+      "measure_id": "M03",
+      "trial_id": "M03-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M03-B007",
+      "condition": "single_agent",
+      "measure_id": "M03",
+      "trial_id": "M03-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M03-B008",
+      "condition": "critic_debate",
+      "measure_id": "M03",
+      "trial_id": "M03-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M03-B009",
+      "condition": "independent_ensemble",
+      "measure_id": "M03",
+      "trial_id": "M03-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M03-B010",
+      "condition": "critic_debate",
+      "measure_id": "M03",
+      "trial_id": "M03-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M03-B011",
+      "condition": "single_agent",
+      "measure_id": "M03",
+      "trial_id": "M03-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M03-B012",
+      "condition": "normal_debate",
+      "measure_id": "M03",
+      "trial_id": "M03-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M03-B013",
+      "condition": "independent_ensemble",
+      "measure_id": "M03",
+      "trial_id": "M03-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M03-B014",
+      "condition": "critic_debate",
+      "measure_id": "M03",
+      "trial_id": "M03-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M03-B015",
+      "condition": "normal_debate",
+      "measure_id": "M03",
+      "trial_id": "M03-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M03-B016",
+      "condition": "critic_debate",
+      "measure_id": "M03",
+      "trial_id": "M03-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M04-B001",
+      "condition": "single_agent",
+      "measure_id": "M04",
+      "trial_id": "M04-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M04-B002",
+      "condition": "normal_debate",
+      "measure_id": "M04",
+      "trial_id": "M04-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M04-B003",
+      "condition": "independent_ensemble",
+      "measure_id": "M04",
+      "trial_id": "M04-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M04-B004",
+      "condition": "critic_debate",
+      "measure_id": "M04",
+      "trial_id": "M04-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M04-B005",
+      "condition": "independent_ensemble",
+      "measure_id": "M04",
+      "trial_id": "M04-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M04-B006",
+      "condition": "normal_debate",
+      "measure_id": "M04",
+      "trial_id": "M04-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M04-B007",
+      "condition": "critic_debate",
+      "measure_id": "M04",
+      "trial_id": "M04-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M04-B008",
+      "condition": "single_agent",
+      "measure_id": "M04",
+      "trial_id": "M04-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M04-B009",
+      "condition": "independent_ensemble",
+      "measure_id": "M04",
+      "trial_id": "M04-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M04-B010",
+      "condition": "independent_ensemble",
+      "measure_id": "M04",
+      "trial_id": "M04-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M04-B011",
+      "condition": "critic_debate",
+      "measure_id": "M04",
+      "trial_id": "M04-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M04-B012",
+      "condition": "normal_debate",
+      "measure_id": "M04",
+      "trial_id": "M04-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M04-B013",
+      "condition": "single_agent",
+      "measure_id": "M04",
+      "trial_id": "M04-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M04-B014",
+      "condition": "single_agent",
+      "measure_id": "M04",
+      "trial_id": "M04-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M04-B015",
+      "condition": "normal_debate",
+      "measure_id": "M04",
+      "trial_id": "M04-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M04-B016",
+      "condition": "critic_debate",
+      "measure_id": "M04",
+      "trial_id": "M04-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M05-B001",
+      "condition": "normal_debate",
+      "measure_id": "M05",
+      "trial_id": "M05-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M05-B002",
+      "condition": "independent_ensemble",
+      "measure_id": "M05",
+      "trial_id": "M05-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M05-B003",
+      "condition": "independent_ensemble",
+      "measure_id": "M05",
+      "trial_id": "M05-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M05-B004",
+      "condition": "single_agent",
+      "measure_id": "M05",
+      "trial_id": "M05-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M05-B005",
+      "condition": "independent_ensemble",
+      "measure_id": "M05",
+      "trial_id": "M05-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M05-B006",
+      "condition": "critic_debate",
+      "measure_id": "M05",
+      "trial_id": "M05-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M05-B007",
+      "condition": "normal_debate",
+      "measure_id": "M05",
+      "trial_id": "M05-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M05-B008",
+      "condition": "single_agent",
+      "measure_id": "M05",
+      "trial_id": "M05-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M05-B009",
+      "condition": "critic_debate",
+      "measure_id": "M05",
+      "trial_id": "M05-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M05-B010",
+      "condition": "critic_debate",
+      "measure_id": "M05",
+      "trial_id": "M05-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M05-B011",
+      "condition": "single_agent",
+      "measure_id": "M05",
+      "trial_id": "M05-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M05-B012",
+      "condition": "single_agent",
+      "measure_id": "M05",
+      "trial_id": "M05-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M05-B013",
+      "condition": "independent_ensemble",
+      "measure_id": "M05",
+      "trial_id": "M05-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M05-B014",
+      "condition": "critic_debate",
+      "measure_id": "M05",
+      "trial_id": "M05-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M05-B015",
+      "condition": "normal_debate",
+      "measure_id": "M05",
+      "trial_id": "M05-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M05-B016",
+      "condition": "normal_debate",
+      "measure_id": "M05",
+      "trial_id": "M05-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M06-B001",
+      "condition": "critic_debate",
+      "measure_id": "M06",
+      "trial_id": "M06-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M06-B002",
+      "condition": "single_agent",
+      "measure_id": "M06",
+      "trial_id": "M06-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M06-B003",
+      "condition": "critic_debate",
+      "measure_id": "M06",
+      "trial_id": "M06-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M06-B004",
+      "condition": "independent_ensemble",
+      "measure_id": "M06",
+      "trial_id": "M06-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M06-B005",
+      "condition": "independent_ensemble",
+      "measure_id": "M06",
+      "trial_id": "M06-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M06-B006",
+      "condition": "single_agent",
+      "measure_id": "M06",
+      "trial_id": "M06-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M06-B007",
+      "condition": "normal_debate",
+      "measure_id": "M06",
+      "trial_id": "M06-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M06-B008",
+      "condition": "single_agent",
+      "measure_id": "M06",
+      "trial_id": "M06-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M06-B009",
+      "condition": "normal_debate",
+      "measure_id": "M06",
+      "trial_id": "M06-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M06-B010",
+      "condition": "normal_debate",
+      "measure_id": "M06",
+      "trial_id": "M06-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M06-B011",
+      "condition": "single_agent",
+      "measure_id": "M06",
+      "trial_id": "M06-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M06-B012",
+      "condition": "critic_debate",
+      "measure_id": "M06",
+      "trial_id": "M06-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M06-B013",
+      "condition": "independent_ensemble",
+      "measure_id": "M06",
+      "trial_id": "M06-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M06-B014",
+      "condition": "normal_debate",
+      "measure_id": "M06",
+      "trial_id": "M06-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M06-B015",
+      "condition": "independent_ensemble",
+      "measure_id": "M06",
+      "trial_id": "M06-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M06-B016",
+      "condition": "critic_debate",
+      "measure_id": "M06",
+      "trial_id": "M06-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M07-B001",
+      "condition": "normal_debate",
+      "measure_id": "M07",
+      "trial_id": "M07-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M07-B002",
+      "condition": "independent_ensemble",
+      "measure_id": "M07",
+      "trial_id": "M07-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M07-B003",
+      "condition": "critic_debate",
+      "measure_id": "M07",
+      "trial_id": "M07-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M07-B004",
+      "condition": "critic_debate",
+      "measure_id": "M07",
+      "trial_id": "M07-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M07-B005",
+      "condition": "critic_debate",
+      "measure_id": "M07",
+      "trial_id": "M07-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M07-B006",
+      "condition": "independent_ensemble",
+      "measure_id": "M07",
+      "trial_id": "M07-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M07-B007",
+      "condition": "single_agent",
+      "measure_id": "M07",
+      "trial_id": "M07-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M07-B008",
+      "condition": "independent_ensemble",
+      "measure_id": "M07",
+      "trial_id": "M07-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M07-B009",
+      "condition": "normal_debate",
+      "measure_id": "M07",
+      "trial_id": "M07-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M07-B010",
+      "condition": "normal_debate",
+      "measure_id": "M07",
+      "trial_id": "M07-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M07-B011",
+      "condition": "independent_ensemble",
+      "measure_id": "M07",
+      "trial_id": "M07-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M07-B012",
+      "condition": "normal_debate",
+      "measure_id": "M07",
+      "trial_id": "M07-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M07-B013",
+      "condition": "single_agent",
+      "measure_id": "M07",
+      "trial_id": "M07-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M07-B014",
+      "condition": "single_agent",
+      "measure_id": "M07",
+      "trial_id": "M07-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M07-B015",
+      "condition": "single_agent",
+      "measure_id": "M07",
+      "trial_id": "M07-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M07-B016",
+      "condition": "critic_debate",
+      "measure_id": "M07",
+      "trial_id": "M07-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M08-B001",
+      "condition": "critic_debate",
+      "measure_id": "M08",
+      "trial_id": "M08-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M08-B002",
+      "condition": "normal_debate",
+      "measure_id": "M08",
+      "trial_id": "M08-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M08-B003",
+      "condition": "normal_debate",
+      "measure_id": "M08",
+      "trial_id": "M08-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M08-B004",
+      "condition": "normal_debate",
+      "measure_id": "M08",
+      "trial_id": "M08-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M08-B005",
+      "condition": "independent_ensemble",
+      "measure_id": "M08",
+      "trial_id": "M08-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M08-B006",
+      "condition": "single_agent",
+      "measure_id": "M08",
+      "trial_id": "M08-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M08-B007",
+      "condition": "independent_ensemble",
+      "measure_id": "M08",
+      "trial_id": "M08-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M08-B008",
+      "condition": "normal_debate",
+      "measure_id": "M08",
+      "trial_id": "M08-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M08-B009",
+      "condition": "single_agent",
+      "measure_id": "M08",
+      "trial_id": "M08-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M08-B010",
+      "condition": "single_agent",
+      "measure_id": "M08",
+      "trial_id": "M08-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M08-B011",
+      "condition": "critic_debate",
+      "measure_id": "M08",
+      "trial_id": "M08-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M08-B012",
+      "condition": "critic_debate",
+      "measure_id": "M08",
+      "trial_id": "M08-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M08-B013",
+      "condition": "independent_ensemble",
+      "measure_id": "M08",
+      "trial_id": "M08-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M08-B014",
+      "condition": "independent_ensemble",
+      "measure_id": "M08",
+      "trial_id": "M08-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M08-B015",
+      "condition": "single_agent",
+      "measure_id": "M08",
+      "trial_id": "M08-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M08-B016",
+      "condition": "critic_debate",
+      "measure_id": "M08",
+      "trial_id": "M08-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M09-B001",
+      "condition": "normal_debate",
+      "measure_id": "M09",
+      "trial_id": "M09-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M09-B002",
+      "condition": "critic_debate",
+      "measure_id": "M09",
+      "trial_id": "M09-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M09-B003",
+      "condition": "independent_ensemble",
+      "measure_id": "M09",
+      "trial_id": "M09-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M09-B004",
+      "condition": "single_agent",
+      "measure_id": "M09",
+      "trial_id": "M09-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M09-B005",
+      "condition": "normal_debate",
+      "measure_id": "M09",
+      "trial_id": "M09-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M09-B006",
+      "condition": "independent_ensemble",
+      "measure_id": "M09",
+      "trial_id": "M09-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M09-B007",
+      "condition": "critic_debate",
+      "measure_id": "M09",
+      "trial_id": "M09-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M09-B008",
+      "condition": "independent_ensemble",
+      "measure_id": "M09",
+      "trial_id": "M09-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M09-B009",
+      "condition": "critic_debate",
+      "measure_id": "M09",
+      "trial_id": "M09-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M09-B010",
+      "condition": "normal_debate",
+      "measure_id": "M09",
+      "trial_id": "M09-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M09-B011",
+      "condition": "critic_debate",
+      "measure_id": "M09",
+      "trial_id": "M09-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M09-B012",
+      "condition": "normal_debate",
+      "measure_id": "M09",
+      "trial_id": "M09-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M09-B013",
+      "condition": "single_agent",
+      "measure_id": "M09",
+      "trial_id": "M09-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M09-B014",
+      "condition": "single_agent",
+      "measure_id": "M09",
+      "trial_id": "M09-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M09-B015",
+      "condition": "single_agent",
+      "measure_id": "M09",
+      "trial_id": "M09-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M09-B016",
+      "condition": "independent_ensemble",
+      "measure_id": "M09",
+      "trial_id": "M09-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M10-B001",
+      "condition": "single_agent",
+      "measure_id": "M10",
+      "trial_id": "M10-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M10-B002",
+      "condition": "independent_ensemble",
+      "measure_id": "M10",
+      "trial_id": "M10-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M10-B003",
+      "condition": "normal_debate",
+      "measure_id": "M10",
+      "trial_id": "M10-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M10-B004",
+      "condition": "single_agent",
+      "measure_id": "M10",
+      "trial_id": "M10-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M10-B005",
+      "condition": "independent_ensemble",
+      "measure_id": "M10",
+      "trial_id": "M10-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M10-B006",
+      "condition": "normal_debate",
+      "measure_id": "M10",
+      "trial_id": "M10-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M10-B007",
+      "condition": "normal_debate",
+      "measure_id": "M10",
+      "trial_id": "M10-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M10-B008",
+      "condition": "single_agent",
+      "measure_id": "M10",
+      "trial_id": "M10-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M10-B009",
+      "condition": "critic_debate",
+      "measure_id": "M10",
+      "trial_id": "M10-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M10-B010",
+      "condition": "critic_debate",
+      "measure_id": "M10",
+      "trial_id": "M10-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M10-B011",
+      "condition": "critic_debate",
+      "measure_id": "M10",
+      "trial_id": "M10-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M10-B012",
+      "condition": "single_agent",
+      "measure_id": "M10",
+      "trial_id": "M10-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M10-B013",
+      "condition": "independent_ensemble",
+      "measure_id": "M10",
+      "trial_id": "M10-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M10-B014",
+      "condition": "critic_debate",
+      "measure_id": "M10",
+      "trial_id": "M10-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M10-B015",
+      "condition": "normal_debate",
+      "measure_id": "M10",
+      "trial_id": "M10-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M10-B016",
+      "condition": "independent_ensemble",
+      "measure_id": "M10",
+      "trial_id": "M10-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M11-B001",
+      "condition": "single_agent",
+      "measure_id": "M11",
+      "trial_id": "M11-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M11-B002",
+      "condition": "single_agent",
+      "measure_id": "M11",
+      "trial_id": "M11-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M11-B003",
+      "condition": "normal_debate",
+      "measure_id": "M11",
+      "trial_id": "M11-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M11-B004",
+      "condition": "critic_debate",
+      "measure_id": "M11",
+      "trial_id": "M11-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M11-B005",
+      "condition": "normal_debate",
+      "measure_id": "M11",
+      "trial_id": "M11-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M11-B006",
+      "condition": "independent_ensemble",
+      "measure_id": "M11",
+      "trial_id": "M11-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M11-B007",
+      "condition": "independent_ensemble",
+      "measure_id": "M11",
+      "trial_id": "M11-trial03",
+      "trial_number": 3
+    },
+    {
+      "blind_id": "M11-B008",
+      "condition": "normal_debate",
+      "measure_id": "M11",
+      "trial_id": "M11-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M11-B009",
+      "condition": "critic_debate",
+      "measure_id": "M11",
+      "trial_id": "M11-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M11-B010",
+      "condition": "normal_debate",
+      "measure_id": "M11",
+      "trial_id": "M11-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M11-B011",
+      "condition": "critic_debate",
+      "measure_id": "M11",
+      "trial_id": "M11-trial02",
+      "trial_number": 2
+    },
+    {
+      "blind_id": "M11-B012",
+      "condition": "single_agent",
+      "measure_id": "M11",
+      "trial_id": "M11-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M11-B013",
+      "condition": "single_agent",
+      "measure_id": "M11",
+      "trial_id": "M11-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M11-B014",
+      "condition": "critic_debate",
+      "measure_id": "M11",
+      "trial_id": "M11-trial01",
+      "trial_number": 1
+    },
+    {
+      "blind_id": "M11-B015",
+      "condition": "independent_ensemble",
+      "measure_id": "M11",
+      "trial_id": "M11-trial04",
+      "trial_number": 4
+    },
+    {
+      "blind_id": "M11-B016",
+      "condition": "independent_ensemble",
+      "measure_id": "M11",
+      "trial_id": "M11-trial01",
+      "trial_number": 1
+    }
+  ],
+  "locked_scoring_inputs": [
+    {
+      "measure_id": "M02",
+      "path": "results/locked_scoring/M02/M02_locked_scoring.csv",
+      "sha256": "b8e6fdff1ce356bcaaf0a9d4d098e0e4f965c9dffe0cf78cac7bddcc90180859"
+    },
+    {
+      "measure_id": "M03",
+      "path": "results/locked_scoring/M03/M03_locked_scoring.csv",
+      "sha256": "63924c9a36211c78562e710d7793363c26626f2a733efd07b8c09a61814e0225"
+    },
+    {
+      "measure_id": "M04",
+      "path": "results/locked_scoring/M04/M04_locked_scoring.csv",
+      "sha256": "e26c86100e945d12ca09acbcfc3fc09489c4cb0542791a35f3dd118123c2d720"
+    },
+    {
+      "measure_id": "M05",
+      "path": "results/locked_scoring/M05/M05_locked_scoring.csv",
+      "sha256": "8d18aea586341ea10d1e7bc3f0479d0eb83a006a53c124fb40bed7f58cb42f94"
+    },
+    {
+      "measure_id": "M06",
+      "path": "results/locked_scoring/M06/M06_locked_scoring.csv",
+      "sha256": "3b2573a1f10b56a9560f982a5a6e7639eebdac7afcaea0d034ec4e6dabed1e92"
+    },
+    {
+      "measure_id": "M07",
+      "path": "results/locked_scoring/M07/M07_locked_scoring.csv",
+      "sha256": "95e41baf5d5843829d07cd7efcc125f3110dc66541c9d5a3b606ef614df7bc4f"
+    },
+    {
+      "measure_id": "M08",
+      "path": "results/locked_scoring/M08/M08_locked_scoring.csv",
+      "sha256": "e665b630a92148ae4ce3a9348c73b8934f7fa105942c5743c34b4ea7791e497e"
+    },
+    {
+      "measure_id": "M09",
+      "path": "results/locked_scoring/M09/M09_locked_scoring.csv",
+      "sha256": "a81683b4f52e88a13154ae0d2edd03164acc9fd61c47a3f2fbf090b9fd97ee54"
+    },
+    {
+      "measure_id": "M10",
+      "path": "results/locked_scoring/M10/M10_locked_scoring.csv",
+      "sha256": "51d0f67eb11463f17abd6d17d2d91df3c09047017ff8a317e265a6e9acb0f39d"
+    },
+    {
+      "measure_id": "M11",
+      "path": "results/locked_scoring/M11/M11_locked_scoring.csv",
+      "sha256": "39671a30d211a0d359cd16fd5ce42076be2515a4bbb82e8e6945382ec6b7b040"
+    }
+  ],
+  "mapping_files": [
+    {
+      "path": "runs/scored/private_mappings/M02_blind_mapping_private.json",
+      "sha256": "9248b3aaa93529fe62fba0665cdfa7bc3c770037df12af92a2111fdaca78d7bd"
+    },
+    {
+      "path": "runs/scored/private_mappings/M03_blind_mapping_private.json",
+      "sha256": "1b28ed9eda2510a1f841705bb2e93505a579bc068f144e84ae206e88cc50cf08"
+    },
+    {
+      "path": "runs/scored/private_mappings/M04_blind_mapping_private.json",
+      "sha256": "5f4ece1d8c12ba7ef1979bbee3f7465d25694f864e94586ace442a364bc8ab6e"
+    },
+    {
+      "path": "runs/scored/private_mappings/M05_blind_mapping_private.json",
+      "sha256": "3293169f7b85c64fd17286afdace9de89cc3976cf471afebabecc709012930c0"
+    },
+    {
+      "path": "runs/scored/private_mappings/M06_blind_mapping_private.json",
+      "sha256": "b8980cca6b7851377106368c48d11077df0d019cba36007266a3b81a3d4781bc"
+    },
+    {
+      "path": "runs/scored/private_mappings/M07_blind_mapping_private.json",
+      "sha256": "6104849a9aecca088bbd9aa8e290cde96cb862b65d87a5458c36b0ed6a018b45"
+    },
+    {
+      "path": "runs/scored/private_mappings/M08_blind_mapping_private.json",
+      "sha256": "3335bcfcadd1f4e263f2f5e0bd9a69b3ee51e9d737363d5842eee2d6cab9f56e"
+    },
+    {
+      "path": "runs/scored/private_mappings/M09_blind_mapping_private.json",
+      "sha256": "d40d8afe477617cf5be7da7584c3292d2b52c2d3d1d91abcede55142cf2d5627"
+    },
+    {
+      "path": "runs/scored/private_mappings/M10_blind_mapping_private.json",
+      "sha256": "6315843c7f408e9ee96507487afebce86b6006dfb71d5e95377e7397f075644b"
+    },
+    {
+      "path": "runs/scored/private_mappings/M11_blind_mapping_private.json",
+      "sha256": "e5747e8f8f9bcba0bcddcbaa58d0c86e261196ecc5f1263448fa57392ddc6fc6"
+    }
+  ],
+  "pre_unblind_analysis_amendment": {
+    "path": "runs/audits/model_assisted_scoring/PRE_UNBLIND_ANALYSIS_AMENDMENT.json",
+    "sha256": "18e4bee76fb01bc95e6db51c71dfc89c91ebde1b839b4e4486e6207821f6aa9c"
+  },
+  "pre_unblind_manifest": {
+    "path": "runs/audits/model_assisted_scoring/PRE_UNBLIND_INTEGRITY_MANIFEST.json",
+    "sha256": "4d98147e160b2e1f05f55dd7a346c79b18e8e972f9e4ed18112e3c19990e74d5"
+  },
+  "schema_version": "1.0",
+  "unblinded_at_utc": "2026-08-09T08:40:16.257427+00:00",
+  "versions": {
+    "commit": "ffbadb5699d6f502ef3fe832246794e2cd0ede69",
+    "matplotlib": "3.10.0",
+    "numpy": "2.5.1",
+    "python": "3.13.5",
+    "worktree_status": "?? analysis/\n?? results/\n?? runs/audits/model_assisted_scoring/\n?? src/analysis/\n?? src/scoring/\n?? tests/"
+  }
+}

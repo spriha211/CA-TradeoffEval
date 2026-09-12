@@ -1,0 +1,33 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+.cache/
+
+# Private experiment mappings
+**/private_mappings/
+**/sealed_private_mappings/
+*_blind_mapping_private.json
+
+# Provider/account material
+provider_logs/
+billing/

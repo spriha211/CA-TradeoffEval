@@ -1,0 +1,151 @@
+contrast,contrast_label,outcome,omitted_measure_id,leave_one_out_mean_difference,full_sample_mean_difference,lomo_minimum,lomo_maximum,direction_changes_in_any_omission,n_measures_after_omission
+independent_ensemble_minus_single_agent,Independent − single,claim_weighted_preservation,M02,0.008825641648354064,0.012621107786548957,0.008825641648354064,0.015917392490104907,False,9
+independent_ensemble_minus_single_agent,Independent − single,claim_weighted_preservation,M03,0.013930082414559532,0.012621107786548957,0.008825641648354064,0.015917392490104907,False,9
+independent_ensemble_minus_single_agent,Independent − single,claim_weighted_preservation,M04,0.014023453096165508,0.012621107786548957,0.008825641648354064,0.015917392490104907,False,9
+independent_ensemble_minus_single_agent,Independent − single,claim_weighted_preservation,M05,0.014186851788975965,0.012621107786548957,0.008825641648354064,0.015917392490104907,False,9
+independent_ensemble_minus_single_agent,Independent − single,claim_weighted_preservation,M06,0.014023453096165508,0.012621107786548957,0.008825641648354064,0.015917392490104907,False,9
+independent_ensemble_minus_single_agent,Independent − single,claim_weighted_preservation,M07,0.014023453096165508,0.012621107786548957,0.008825641648354064,0.015917392490104907,False,9
+independent_ensemble_minus_single_agent,Independent − single,claim_weighted_preservation,M08,0.0088279798451367,0.012621107786548957,0.008825641648354064,0.015917392490104907,False,9
+independent_ensemble_minus_single_agent,Independent − single,claim_weighted_preservation,M09,0.012171601244313664,0.012621107786548957,0.008825641648354064,0.015917392490104907,False,9
+independent_ensemble_minus_single_agent,Independent − single,claim_weighted_preservation,M10,0.015917392490104907,0.012621107786548957,0.008825641648354064,0.015917392490104907,False,9
+independent_ensemble_minus_single_agent,Independent − single,claim_weighted_preservation,M11,0.010281169145548219,0.012621107786548957,0.008825641648354064,0.015917392490104907,False,9
+independent_ensemble_minus_single_agent,Independent − single,component_weighted_preservation,M02,0.004481292612549555,0.007110086428217676,0.0019477150789720182,0.01316829526506945,False,9
+independent_ensemble_minus_single_agent,Independent − single,component_weighted_preservation,M03,0.01316829526506945,0.007110086428217676,0.0019477150789720182,0.01316829526506945,False,9
+independent_ensemble_minus_single_agent,Independent − single,component_weighted_preservation,M04,0.007900096031352975,0.007110086428217676,0.0019477150789720182,0.01316829526506945,False,9
+independent_ensemble_minus_single_agent,Independent − single,component_weighted_preservation,M05,0.007900096031352975,0.007110086428217676,0.0019477150789720182,0.01316829526506945,False,9
+independent_ensemble_minus_single_agent,Independent − single,component_weighted_preservation,M06,0.007900096031352975,0.007110086428217676,0.0019477150789720182,0.01316829526506945,False,9
+independent_ensemble_minus_single_agent,Independent − single,component_weighted_preservation,M07,0.007900096031352975,0.007110086428217676,0.0019477150789720182,0.01316829526506945,False,9
+independent_ensemble_minus_single_agent,Independent − single,component_weighted_preservation,M08,0.0019477150789720182,0.007110086428217676,0.0019477150789720182,0.01316829526506945,False,9
+independent_ensemble_minus_single_agent,Independent − single,component_weighted_preservation,M09,0.00567787380913075,0.007110086428217676,0.0019477150789720182,0.01316829526506945,False,9
+independent_ensemble_minus_single_agent,Independent − single,component_weighted_preservation,M10,0.009692210726693486,0.007110086428217676,0.0019477150789720182,0.01316829526506945,False,9
+independent_ensemble_minus_single_agent,Independent − single,component_weighted_preservation,M11,0.00453309266434961,0.007110086428217676,0.0019477150789720182,0.01316829526506945,False,9
+independent_ensemble_minus_single_agent,Independent − single,mean_component_distortion_severity,M02,0.007431492041822966,0.006303727453025284,0.002214869583821197,0.011964459074789999,False,9
+independent_ensemble_minus_single_agent,Independent − single,mean_component_distortion_severity,M03,0.002214869583821197,0.006303727453025284,0.002214869583821197,0.011964459074789999,False,9
+independent_ensemble_minus_single_agent,Independent − single,mean_component_distortion_severity,M04,0.007004141614472538,0.006303727453025284,0.002214869583821197,0.011964459074789999,False,9
+independent_ensemble_minus_single_agent,Independent − single,mean_component_distortion_severity,M05,0.004399974947805872,0.006303727453025284,0.002214869583821197,0.011964459074789999,False,9
+independent_ensemble_minus_single_agent,Independent − single,mean_component_distortion_severity,M06,0.007004141614472538,0.006303727453025284,0.002214869583821197,0.011964459074789999,False,9
+independent_ensemble_minus_single_agent,Independent − single,mean_component_distortion_severity,M07,0.007004141614472538,0.006303727453025284,0.002214869583821197,0.011964459074789999,False,9
+independent_ensemble_minus_single_agent,Independent − single,mean_component_distortion_severity,M08,0.011964459074789999,0.006303727453025284,0.002214869583821197,0.011964459074789999,False,9
+independent_ensemble_minus_single_agent,Independent − single,mean_component_distortion_severity,M09,0.00811525272558365,0.006303727453025284,0.002214869583821197,0.011964459074789999,False,9
+independent_ensemble_minus_single_agent,Independent − single,mean_component_distortion_severity,M10,0.003419912223791535,0.006303727453025284,0.002214869583821197,0.011964459074789999,False,9
+independent_ensemble_minus_single_agent,Independent − single,mean_component_distortion_severity,M11,0.004478889089220013,0.006303727453025284,0.002214869583821197,0.011964459074789999,False,9
+independent_ensemble_minus_single_agent,Independent − single,any_distortion_rate,M02,0.005424323583041604,0.004497275840122059,0.00020770112503983493,0.009957290616008637,False,9
+independent_ensemble_minus_single_agent,Independent − single,any_distortion_rate,M03,0.00020770112503983493,0.004497275840122059,0.00020770112503983493,0.009957290616008637,False,9
+independent_ensemble_minus_single_agent,Independent − single,any_distortion_rate,M04,0.004996973155691176,0.004497275840122059,0.00020770112503983493,0.009957290616008637,False,9
+independent_ensemble_minus_single_agent,Independent − single,any_distortion_rate,M05,0.0023928064890245096,0.004497275840122059,0.00020770112503983493,0.009957290616008637,False,9
+independent_ensemble_minus_single_agent,Independent − single,any_distortion_rate,M06,0.004996973155691176,0.004497275840122059,0.00020770112503983493,0.009957290616008637,False,9
+independent_ensemble_minus_single_agent,Independent − single,any_distortion_rate,M07,0.004996973155691176,0.004497275840122059,0.00020770112503983493,0.009957290616008637,False,9
+independent_ensemble_minus_single_agent,Independent − single,any_distortion_rate,M08,0.009957290616008637,0.004497275840122059,0.00020770112503983493,0.009957290616008637,False,9
+independent_ensemble_minus_single_agent,Independent − single,any_distortion_rate,M09,0.007219195377913399,0.004497275840122059,0.00020770112503983493,0.009957290616008637,False,9
+independent_ensemble_minus_single_agent,Independent − single,any_distortion_rate,M10,0.0023088011126804237,0.004497275840122059,0.00020770112503983493,0.009957290616008637,False,9
+independent_ensemble_minus_single_agent,Independent − single,any_distortion_rate,M11,0.002471720630438651,0.004497275840122059,0.00020770112503983493,0.009957290616008637,False,9
+independent_ensemble_minus_single_agent,Independent − single,material_distortion_rate,M02,0.002007168458781362,0.001806451612903226,0.0008960573476702509,0.002007168458781362,False,9
+independent_ensemble_minus_single_agent,Independent − single,material_distortion_rate,M03,0.002007168458781362,0.001806451612903226,0.0008960573476702509,0.002007168458781362,False,9
+independent_ensemble_minus_single_agent,Independent − single,material_distortion_rate,M04,0.002007168458781362,0.001806451612903226,0.0008960573476702509,0.002007168458781362,False,9
+independent_ensemble_minus_single_agent,Independent − single,material_distortion_rate,M05,0.002007168458781362,0.001806451612903226,0.0008960573476702509,0.002007168458781362,False,9
+independent_ensemble_minus_single_agent,Independent − single,material_distortion_rate,M06,0.002007168458781362,0.001806451612903226,0.0008960573476702509,0.002007168458781362,False,9
+independent_ensemble_minus_single_agent,Independent − single,material_distortion_rate,M07,0.002007168458781362,0.001806451612903226,0.0008960573476702509,0.002007168458781362,False,9
+independent_ensemble_minus_single_agent,Independent − single,material_distortion_rate,M08,0.002007168458781362,0.001806451612903226,0.0008960573476702509,0.002007168458781362,False,9
+independent_ensemble_minus_single_agent,Independent − single,material_distortion_rate,M09,0.0008960573476702509,0.001806451612903226,0.0008960573476702509,0.002007168458781362,False,9
+independent_ensemble_minus_single_agent,Independent − single,material_distortion_rate,M10,0.0011111111111111111,0.001806451612903226,0.0008960573476702509,0.002007168458781362,False,9
+independent_ensemble_minus_single_agent,Independent − single,material_distortion_rate,M11,0.002007168458781362,0.001806451612903226,0.0008960573476702509,0.002007168458781362,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,claim_weighted_preservation,M02,-0.004485786317894141,-0.0027493288982259447,-0.004485786317894141,-0.0007399950721029095,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,claim_weighted_preservation,M03,-0.0043425472040668055,-0.0027493288982259447,-0.004485786317894141,-0.0007399950721029095,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,claim_weighted_preservation,M04,-0.0030548098869177163,-0.0027493288982259447,-0.004485786317894141,-0.0007399950721029095,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,claim_weighted_preservation,M05,-0.0032454416951965704,-0.0027493288982259447,-0.004485786317894141,-0.0007399950721029095,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,claim_weighted_preservation,M06,-0.0007399950721029095,-0.0027493288982259447,-0.004485786317894141,-0.0007399950721029095,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,claim_weighted_preservation,M07,-0.0021867543313621608,-0.0027493288982259447,-0.004485786317894141,-0.0007399950721029095,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,claim_weighted_preservation,M08,-0.003980735812843651,-0.0027493288982259447,-0.004485786317894141,-0.0007399950721029095,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,claim_weighted_preservation,M09,-0.0021288839609917933,-0.0027493288982259447,-0.004485786317894141,-0.0007399950721029095,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,claim_weighted_preservation,M10,-0.00116087049297833,-0.0027493288982259447,-0.004485786317894141,-0.0007399950721029095,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,claim_weighted_preservation,M11,-0.0021674642079053674,-0.0027493288982259447,-0.004485786317894141,-0.0007399950721029095,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,component_weighted_preservation,M02,-0.0028727619967887025,-0.0014316396432636712,-0.0030274923239328086,0.0012828525036534038,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,component_weighted_preservation,M03,-0.0030274923239328086,-0.0014316396432636712,-0.0030274923239328086,0.0012828525036534038,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,component_weighted_preservation,M04,-0.0015907107147374127,-0.0014316396432636712,-0.0030274923239328086,0.0012828525036534038,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,component_weighted_preservation,M05,-0.0015907107147374127,-0.0014316396432636712,-0.0030274923239328086,0.0012828525036534038,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,component_weighted_preservation,M06,0.0012828525036534038,-0.0014316396432636712,-0.0030274923239328086,0.0012828525036534038,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,component_weighted_preservation,M07,-0.00032808445211115106,-0.0014316396432636712,-0.0030274923239328086,0.0012828525036534038,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,component_weighted_preservation,M08,-0.0025827742068009136,-0.0014316396432636712,-0.0030274923239328086,0.0012828525036534038,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,component_weighted_preservation,M09,-0.00047959960362630046,-0.0014316396432636712,-0.0030274923239328086,0.0012828525036534038,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,component_weighted_preservation,M10,-0.0006946533670671625,-0.0014316396432636712,-0.0030274923239328086,0.0012828525036534038,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,component_weighted_preservation,M11,-0.0024324615564882534,-0.0014316396432636712,-0.0030274923239328086,0.0012828525036534038,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,mean_component_distortion_severity,M02,0.001277940429775801,0.0026886079252597594,-0.0012214120695766975,0.004903050951438047,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,mean_component_distortion_severity,M03,0.004903050951438047,0.0026886079252597594,-0.0012214120695766975,0.004903050951438047,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,mean_component_distortion_severity,M04,0.0029873421391775107,0.0026886079252597594,-0.0012214120695766975,0.004903050951438047,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,mean_component_distortion_severity,M05,0.0029873421391775107,0.0026886079252597594,-0.0012214120695766975,0.004903050951438047,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,mean_component_distortion_severity,M06,0.0029873421391775107,0.0026886079252597594,-0.0012214120695766975,0.004903050951438047,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,mean_component_distortion_severity,M07,0.0029873421391775107,0.0026886079252597594,-0.0012214120695766975,0.004903050951438047,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,mean_component_distortion_severity,M08,0.0019952786471140187,0.0026886079252597594,-0.0012214120695766975,0.004903050951438047,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,mean_component_distortion_severity,M09,0.004098453250288622,0.0026886079252597594,-0.0012214120695766975,0.004903050951438047,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,mean_component_distortion_severity,M10,0.0038833994868477614,0.0026886079252597594,-0.0012214120695766975,0.004903050951438047,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,mean_component_distortion_severity,M11,-0.0012214120695766975,0.0026886079252597594,-0.0012214120695766975,0.004903050951438047,True,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,any_distortion_rate,M02,0.004396219999668275,0.005495059538162986,0.001896867500315776,0.00802133052133052,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,any_distortion_rate,M03,0.00802133052133052,0.005495059538162986,0.001896867500315776,0.00802133052133052,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,any_distortion_rate,M04,0.0061056217090699845,0.005495059538162986,0.001896867500315776,0.00802133052133052,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,any_distortion_rate,M05,0.0061056217090699845,0.005495059538162986,0.001896867500315776,0.00802133052133052,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,any_distortion_rate,M06,0.0061056217090699845,0.005495059538162986,0.001896867500315776,0.00802133052133052,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,any_distortion_rate,M07,0.0061056217090699845,0.005495059538162986,0.001896867500315776,0.00802133052133052,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,any_distortion_rate,M08,0.0051135582170064925,0.005495059538162986,0.001896867500315776,0.00802133052133052,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,any_distortion_rate,M09,0.004994510597958873,0.005495059538162986,0.001896867500315776,0.00802133052133052,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,any_distortion_rate,M10,0.0061056217090699845,0.005495059538162986,0.001896867500315776,0.00802133052133052,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,any_distortion_rate,M11,0.001896867500315776,0.005495059538162986,0.001896867500315776,0.00802133052133052,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,material_distortion_rate,M02,-0.0031182795698924733,-0.0028064516129032257,-0.0031182795698924733,-0.0008960573476702509,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,material_distortion_rate,M03,-0.0031182795698924733,-0.0028064516129032257,-0.0031182795698924733,-0.0008960573476702509,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,material_distortion_rate,M04,-0.0031182795698924733,-0.0028064516129032257,-0.0031182795698924733,-0.0008960573476702509,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,material_distortion_rate,M05,-0.0031182795698924733,-0.0028064516129032257,-0.0031182795698924733,-0.0008960573476702509,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,material_distortion_rate,M06,-0.0031182795698924733,-0.0028064516129032257,-0.0031182795698924733,-0.0008960573476702509,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,material_distortion_rate,M07,-0.0031182795698924733,-0.0028064516129032257,-0.0031182795698924733,-0.0008960573476702509,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,material_distortion_rate,M08,-0.0031182795698924733,-0.0028064516129032257,-0.0031182795698924733,-0.0008960573476702509,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,material_distortion_rate,M09,-0.0008960573476702509,-0.0028064516129032257,-0.0031182795698924733,-0.0008960573476702509,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,material_distortion_rate,M10,-0.0022222222222222222,-0.0028064516129032257,-0.0031182795698924733,-0.0008960573476702509,False,9
+normal_debate_minus_independent_ensemble,Normal debate − independent,material_distortion_rate,M11,-0.0031182795698924733,-0.0028064516129032257,-0.0031182795698924733,-0.0008960573476702509,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,claim_weighted_preservation,M02,0.023730138099010638,0.031262427319412624,0.01883189092135171,0.0362727561563346,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,claim_weighted_preservation,M03,0.0362727561563346,0.031262427319412624,0.01883189092135171,0.0362727561563346,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,claim_weighted_preservation,M04,0.034736030354902914,0.031262427319412624,0.01883189092135171,0.0362727561563346,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,claim_weighted_preservation,M05,0.01883189092135171,0.031262427319412624,0.01883189092135171,0.0362727561563346,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,claim_weighted_preservation,M06,0.03164961060181651,0.031262427319412624,0.01883189092135171,0.0362727561563346,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,claim_weighted_preservation,M07,0.03386797479934736,0.031262427319412624,0.01883189092135171,0.0362727561563346,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,claim_weighted_preservation,M08,0.03381010442897699,0.031262427319412624,0.01883189092135171,0.0362727561563346,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,claim_weighted_preservation,M09,0.034736030354902914,0.031262427319412624,0.01883189092135171,0.0362727561563346,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,claim_weighted_preservation,M10,0.03094815156702413,0.031262427319412624,0.01883189092135171,0.0362727561563346,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,claim_weighted_preservation,M11,0.03404158591045846,0.031262427319412624,0.01883189092135171,0.0362727561563346,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,component_weighted_preservation,M02,0.0275458674287234,0.035175896070466436,0.02259127341162938,0.03908432896718493,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,component_weighted_preservation,M03,0.03764754735798952,0.035175896070466436,0.02259127341162938,0.03908432896718493,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,component_weighted_preservation,M04,0.03908432896718493,0.035175896070466436,0.02259127341162938,0.03908432896718493,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,component_weighted_preservation,M05,0.02259127341162938,0.035175896070466436,0.02259127341162938,0.03908432896718493,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,component_weighted_preservation,M06,0.035252911342663854,0.035175896070466436,0.02259127341162938,0.03908432896718493,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,component_weighted_preservation,M07,0.037821702704558674,0.035175896070466436,0.02259127341162938,0.03908432896718493,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,component_weighted_preservation,M08,0.03809226547512144,0.035175896070466436,0.02259127341162938,0.03908432896718493,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,component_weighted_preservation,M09,0.03908432896718493,0.035175896070466436,0.02259127341162938,0.03908432896718493,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,component_weighted_preservation,M10,0.03639615692417418,0.035175896070466436,0.02259127341162938,0.03908432896718493,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,component_weighted_preservation,M11,0.03824257812543408,0.035175896070466436,0.02259127341162938,0.03908432896718493,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,mean_component_distortion_severity,M02,0.0055854301530052376,0.005026887137704715,0.0021132079307830155,0.008273602196015991,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,mean_component_distortion_severity,M03,0.004148648543809835,0.005026887137704715,0.0021132079307830155,0.008273602196015991,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,mean_component_distortion_severity,M04,0.0055854301530052376,0.005026887137704715,0.0021132079307830155,0.008273602196015991,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,mean_component_distortion_severity,M05,0.0021132079307830155,0.005026887137704715,0.0021132079307830155,0.008273602196015991,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,mean_component_distortion_severity,M06,0.0055854301530052376,0.005026887137704715,0.0021132079307830155,0.008273602196015991,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,mean_component_distortion_severity,M07,0.0055854301530052376,0.005026887137704715,0.0021132079307830155,0.008273602196015991,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,mean_component_distortion_severity,M08,0.0036013031688782535,0.005026887137704715,0.0021132079307830155,0.008273602196015991,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,mean_component_distortion_severity,M09,0.003363207930783015,0.005026887137704715,0.0021132079307830155,0.008273602196015991,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,mean_component_distortion_severity,M10,0.008273602196015991,0.005026887137704715,0.0021132079307830155,0.008273602196015991,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,mean_component_distortion_severity,M11,0.006427180994756079,0.005026887137704715,0.0021132079307830155,0.008273602196015991,False,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,any_distortion_rate,M02,0.003363207930783015,0.0030268871377047133,-0.00010901429143920713,0.006051379973793767,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,any_distortion_rate,M03,0.0019264263215876126,0.0030268871377047133,-0.00010901429143920713,0.006051379973793767,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,any_distortion_rate,M04,0.003363207930783015,0.0030268871377047133,-0.00010901429143920713,0.006051379973793767,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,any_distortion_rate,M05,-0.00010901429143920713,0.0030268871377047133,-0.00010901429143920713,0.006051379973793767,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,any_distortion_rate,M06,0.003363207930783015,0.0030268871377047133,-0.00010901429143920713,0.006051379973793767,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,any_distortion_rate,M07,0.003363207930783015,0.0030268871377047133,-0.00010901429143920713,0.006051379973793767,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,any_distortion_rate,M08,0.0013790809466560307,0.0030268871377047133,-0.00010901429143920713,0.006051379973793767,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,any_distortion_rate,M09,0.003363207930783015,0.0030268871377047133,-0.00010901429143920713,0.006051379973793767,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,any_distortion_rate,M10,0.006051379973793767,0.0030268871377047133,-0.00010901429143920713,0.006051379973793767,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,any_distortion_rate,M11,0.004204958772533855,0.0030268871377047133,-0.00010901429143920713,0.006051379973793767,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,material_distortion_rate,M02,0.0022222222222222222,0.002,0.0,0.0022222222222222222,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,material_distortion_rate,M03,0.0022222222222222222,0.002,0.0,0.0022222222222222222,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,material_distortion_rate,M04,0.0022222222222222222,0.002,0.0,0.0022222222222222222,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,material_distortion_rate,M05,0.0022222222222222222,0.002,0.0,0.0022222222222222222,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,material_distortion_rate,M06,0.0022222222222222222,0.002,0.0,0.0022222222222222222,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,material_distortion_rate,M07,0.0022222222222222222,0.002,0.0,0.0022222222222222222,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,material_distortion_rate,M08,0.0022222222222222222,0.002,0.0,0.0022222222222222222,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,material_distortion_rate,M09,0.0,0.002,0.0,0.0022222222222222222,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,material_distortion_rate,M10,0.0022222222222222222,0.002,0.0,0.0022222222222222222,True,9
+critic_debate_minus_normal_debate,Critic debate − normal debate,material_distortion_rate,M11,0.0022222222222222222,0.002,0.0,0.0022222222222222222,True,9

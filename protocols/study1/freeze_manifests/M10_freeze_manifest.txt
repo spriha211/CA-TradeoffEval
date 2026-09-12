@@ -1,0 +1,33 @@
+CA-TRADEOFFBENCH M10 FREEZE MANIFEST
+
+Created at UTC: 2026-07-28T19:20:21.834197+00:00
+Measure: M10 — California Proposition 34 (2024)
+Study role: confirmatory
+
+Freeze timing:
+Frozen before any M10 model outputs were generated.
+
+Validated structure:
+High-level claims: 11
+Atomic components: 31
+
+Raw file SHA-256 hashes:
+daf34ce4053f14129ea996891513bda4a3c5e5c17d72f97c6597f2535d7b2b90  data/source_documents/M10.txt
+d6296ecb645943903f15cabdf7118d6e8f39a0c203ffab6d7bc7d476993a0a00  data/source_documents/M10_official.pdf
+2b6f066f98d13bf757664d21470cb23c165dd8714f00d8c8c82dbe81a6573423  data/reference_inventories/M10_inventory.csv
+b651e185222010f139c9d51f9fc945ae2d5a2f237e9d127b10f72b2ab0b13c8a  data/reference_inventories/M10_components.csv
+0b954437992c3e03e78e6cc7470f45fc95bb6769026738339da73e04e5789f15  paper/M10_prefreeze_audit.md
+90e45cff62b0c6a1a26bcece07da402f73a3b05898a8c9dc85833a7f17874da0  data/reference_inventories/SCORING_GUIDE.md
+20b7e4334ceed4c4036e13bff3c602c7b4cc33f751c836f4214186ab4a081c9f  data/reference_inventories/INVENTORY_CONSTRUCTION_GUIDE.md
+f2e53bc08b77e3d4279f41b9d87d71881f9b38a85c1e84a4c225a9b52d24a94a  paper/protocol_v1_1.md
+
+Runner-normalized M10 source-text SHA-256:
+3f9979bbbfcb64c24425085c6e4d725b86207a9059cbc77b1f6219a31423b50d
+
+Hash convention:
+Raw hashes cover exact file bytes.
+Runner source hashing uses UTF-8 text after .strip().
+
+Freeze rule:
+M10.txt, M10_inventory.csv, and M10_components.csv
+must not be edited based on subsequently generated outputs.

@@ -1,0 +1,11 @@
+Using only the supplied official source material and the candidate agent
+outputs, produce one comprehensive and neutral policy analysis.
+
+Incorporate useful source-supported information from the candidate outputs.
+
+Do not introduce outside knowledge or unsupported claims.
+
+Do not recommend how someone should vote.
+
+Keep the response under 500 words.
+

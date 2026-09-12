@@ -1,0 +1,23 @@
+CA-TRADEOFFBENCH M02 CONFIRMATORY FREEZE
+Created: 2026-07-21T18:36:50Z
+
+Measure ID: M02
+California Proposition: 1
+Election: March 5, 2024 Presidential Primary
+Study role: confirmatory
+
+High-level reference claims: 22
+Atomic components: 65
+
+IMPORTANT:
+No experimental M02 model outputs were inspected before this freeze.
+
+SHA-256 FILE HASHES
+====================
+6a7eefb7db42a93653748b8c860424a131a13748e91473b514af61dcac079db5  data/source_documents/M02.txt
+7439ed34ab9ec7bd161a829afe979f028e4249d58cc39649061abdb070214e4e  data/source_documents/M02_prop1_official.pdf
+f2fbc67494036b511ff72317febbc7e3dfa03caa4ea8c8a4a43ce9a7276add52  data/reference_inventories/M02_inventory.csv
+91679bd3c3596439eaac7b1254e786161d6293ecfd36780e9e80ef95584b243b  data/reference_inventories/M02_components.csv
+90e45cff62b0c6a1a26bcece07da402f73a3b05898a8c9dc85833a7f17874da0  data/reference_inventories/SCORING_GUIDE_v1_1.md
+20b7e4334ceed4c4036e13bff3c602c7b4cc33f751c836f4214186ab4a081c9f  data/reference_inventories/INVENTORY_CONSTRUCTION_GUIDE.md
+f2e53bc08b77e3d4279f41b9d87d71881f9b38a85c1e84a4c225a9b52d24a94a  paper/protocol_v1_1.md

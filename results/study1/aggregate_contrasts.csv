@@ -1,0 +1,16 @@
+contrast,contrast_label,outcome,mean_paired_difference,sd_across_measure_differences,bootstrap_ci_95_low,bootstrap_ci_95_high,n_measures,bootstrap_replicates,bootstrap_seed,positive_measure_differences,negative_measure_differences,zero_measure_differences
+independent_ensemble_minus_single_agent,Independent − single,claim_weighted_preservation,0.012621107786548957,0.02232954041431611,-0.00016392920804686462,0.02596987447125314,10,10000,20260809,5,2,3
+independent_ensemble_minus_single_agent,Independent − single,component_weighted_preservation,0.007110086428217676,0.028161434099237485,-0.009729815049614843,0.023364437717454955,10,10000,20260809,4,2,4
+independent_ensemble_minus_single_agent,Independent − single,mean_component_distortion_severity,0.006303727453025284,0.025110296928931772,-0.009002321385511039,0.02057098766865087,10,10000,20260809,4,3,3
+independent_ensemble_minus_single_agent,Independent − single,any_distortion_rate,0.004497275840122059,0.025198331210536155,-0.010780381633452752,0.018490691932858575,10,10000,20260809,4,3,3
+independent_ensemble_minus_single_agent,Independent − single,material_distortion_rate,0.001806451612903226,0.0038355608904307127,0.0,0.004419354838709678,10,10000,20260809,2,0,8
+normal_debate_minus_independent_ensemble,Normal debate − independent,claim_weighted_preservation,-0.0027493288982259447,0.011622849316976297,-0.009607991681521088,0.004021836007130132,10,10000,20260809,4,5,1
+normal_debate_minus_independent_ensemble,Normal debate − independent,component_weighted_preservation,-0.0014316396432636712,0.012382687647439758,-0.009030699204392223,0.0054051471516988955,10,10000,20260809,4,4,2
+normal_debate_minus_independent_ensemble,Normal debate − independent,mean_component_distortion_severity,0.0026886079252597594,0.015424453185390635,-0.005469013189257907,0.012277547721096108,10,10000,20260809,3,3,4
+normal_debate_minus_independent_ensemble,Normal debate − independent,any_distortion_rate,0.005495059538162986,0.01432370497034541,-0.002448275862068966,0.014440559440559438,10,10000,20260809,4,1,5
+normal_debate_minus_independent_ensemble,Normal debate − independent,material_distortion_rate,-0.0028064516129032257,0.006551290914687055,-0.006806451612903226,0.0,10,10000,20260809,0,2,8
+critic_debate_minus_normal_debate,Critic debate − normal debate,claim_weighted_preservation,0.031262427319412624,0.05035540760651977,0.005330034854851017,0.06342640261597061,10,10000,20260809,7,1,2
+critic_debate_minus_normal_debate,Critic debate − normal debate,component_weighted_preservation,0.035175896070466436,0.05016873997015697,0.009735058404239478,0.0677691561645043,10,10000,20260809,8,0,2
+critic_debate_minus_normal_debate,Critic debate − normal debate,mean_component_distortion_severity,0.005026887137704715,0.01582078677376322,-0.004304448966865539,0.014036413084042383,10,10000,20260809,4,2,4
+critic_debate_minus_normal_debate,Critic debate − normal debate,any_distortion_rate,0.0030268871377047133,0.014958279508820968,-0.005694398297290398,0.01191502463054187,10,10000,20260809,3,2,5
+critic_debate_minus_normal_debate,Critic debate − normal debate,material_distortion_rate,0.002,0.006324555320336759,0.0,0.006,10,10000,20260809,1,0,9

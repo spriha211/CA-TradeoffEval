@@ -1,0 +1,82 @@
+claim_id,category,reference_claim,supporting_source_text,source_document,source_page,source_section,importance_note
+M05-T01,policy_change,Proposition 4 authorizes $10 billion in state general obligation bonds for natural-resources and climate-related projects.,"• Authorizes $10 billion in state general obligation bonds for various projects to reduce climate risks and impacts: $3.8 billion for safe drinking water and water resilience; $1.95 billion for wildfire prevention and extreme heat mitigation; $1.9 billion for protection of natural lands, parks, and wildlife; $1.2 billion for protection of coastal lands, bays, and oceans; $850 million for clean energy; and $300 million for agriculture.
+
+New Bond for Natural Resources and Climate Activities. Proposition 4 allows the state to sell a $10 billion bond for natural resources and climate activities.",M05_official.pdf,24;25,Official Title and Summary; Proposal,"Defines the measure's central financing mechanism, total principal, and overall policy purpose."
+M05-T02,funding_delivery,"Much of the bond funding would be distributed through loans and grants to local governments, Native American tribes, not-for-profit organizations, and businesses, while some funding would support state-run activities.","Much of the bond money would be used for loans and grants to local governments, Native American tribes, not-for-profit organizations, and businesses. Some bond money also would be available for state agencies to spend on state-run activities.",M05_official.pdf,25,Proposal,Identifies the institutions through which the bond funding would be delivered and distinguishes external grants from state-run spending.
+M05-T03,allocation,"The $10 billion bond is divided among eight broad categories: $3.8 billion for drought, flood, and water supply; $1.5 billion for forest health and wildfire prevention; $1.2 billion for sea-level rise and coastal areas; $1.2 billion for land conservation and habitat restoration; $850 million for energy infrastructure; $700 million for parks; $450 million for extreme heat; and $300 million for farms and agriculture.","Drought, Flood, and Water Supply: $3.8 billion
+Goal: Increase the amount and quality of water available for people to use and reduce the risk of flooding.
+
+Forest Health and Wildfire Prevention: $1.5 billion
+Goal: Improve the health of forests and protect communities from wildfires.
+
+Sea-Level Rise and Coastal Areas: $1.2 billion
+Goal: Reduce the risks from sea-level rise, restore coastal areas, and protect fish.
+
+Land Conservation and Habitat Restoration: $1.2 billion
+Goal: Protect and restore natural areas.
+
+Energy Infrastructure: $850 million
+Goal: Support the state's shift to more renewable sources of energy, such as offshore wind.
+
+Parks: $700 million
+Goal: Expand, renovate, and repair local and state parks.
+
+Extreme Heat: $450 million
+Goal: Reduce the effects of extreme heat on communities.
+
+Farms and Agriculture: $300 million
+Goal: Help farms respond to the effects of climate change and become more sustainable.
+
+Total: $10 billion",M05_official.pdf,25,Key Goals of Proposition 4 Bond Funds,Captures the measure's principal allocation structure and relative scale of its eight major spending areas.
+M05-T04,water_allocation,"Within the $3.8 billion water category, about $1.9 billion would increase water amount and quality, including drought storage and safe drinking water; $1.1 billion would reduce flood risk; remaining funds would support other activities such as river and lake restoration.","Drought, Flood, and Water Supply ($3.8 Billion). Roughly half of this money would be for activities to increase the amount and quality of water available for people to use ($1.9 billion). This would include storing water so it can be used during future droughts, as well as cleaning polluted water to make it safe to drink.
+
+Money would also be used to help reduce the risk of floods, such as by repairing dams and capturing and reusing stormwater ($1.1 billion). The rest of the money would be used for various activities, such as restoring rivers and lakes.",M05_official.pdf,26,"Drought, Flood, and Water Supply",Preserves major suballocations and different water-related purposes within the largest funding category.
+M05-T05,wildfire_allocation,"The $1.5 billion forest-health and wildfire allocation would support forest-health and severe-wildfire-risk reduction, including tree thinning, vegetation clearing near communities, and homeowner wildfire-resilience activities.","Forest Health and Wildfire Prevention ($1.5 Billion). All of this money would support activities to improve the health of forests and reduce the risk of severe and destructive wildfires. This would include thinning trees in forests that are overgrown and clearing vegetation near where people live.
+
+Money would also be used for other activities, such as helping homeowners make their properties more resistant to wildfire damage.",M05_official.pdf,26,Forest Health and Wildfire Prevention,Captures the intended wildfire-risk mechanism and the main types of prevention activities described by the source.
+M05-T06,coastal_allocation,"Within the $1.2 billion coastal category, $890 million would restore coastal areas and protect against sea-level rise, including wetland buffers, while $310 million would improve ocean habitats and protect fish and other marine wildlife.","Sea-Level Rise and Coastal Areas ($1.2 Billion). Most of this money would pay for activities to restore coastal areas and protect them from the effects of rising sea levels ($890 million). This could include restoring wetlands so they can serve as buffers to rising sea levels.
+
+The rest of this money would be used to improve ocean habitats and protect fish and other marine wildlife ($310 million).",M05_official.pdf,26,Sea-Level Rise and Coastal Areas,Preserves the two distinct coastal spending purposes and their relative allocations.
+M05-T07,conservation_allocation,"The $1.2 billion land-conservation and habitat-restoration allocation would protect and restore land for fish and wildlife, including potentially acquiring land so it is not developed.","Land Conservation and Habitat Restoration ($1.2 Billion). This money would be used to protect and restore land for the benefit of fish and wildlife. For example, it could support purchasing land to set aside so that it is not developed.",M05_official.pdf,26,Land Conservation and Habitat Restoration,Captures the principal conservation purpose and a concrete mechanism by which land could be protected.
+M05-T08,energy_allocation,"The $850 million energy-infrastructure allocation includes $475 million for offshore wind, $325 million for transmission infrastructure, and $50 million for large electricity-storage batteries.","Energy Infrastructure ($850 Million). More than half of this money would support the development of wind turbines off the California coast ($475 million).
+
+Most of the remaining money would pay for building infrastructure such as transmission lines to carry electricity long distances ($325 million). The rest of the money would pay for projects to build large batteries that store electricity for when it is needed ($50 million).",M05_official.pdf,26,Energy Infrastructure,Captures the three major energy-infrastructure suballocations.
+M05-T09,parks_allocation,"The $700 million parks allocation includes $300 million for recreation or climate-impact activities, $200 million in local park grants, and $200 million for state-park repairs and nature education.","Parks ($700 Million). The bulk of this money would support various activities that expand recreational opportunities at parks or reduce the impacts of climate change on parks ($300 million). These activities could include adding new trails and parking areas.
+
+Some of this money would provide grants to local communities to build new parks or renovate existing parks ($200 million).
+
+The rest of this money would be used to repair state parks and provide nature education ($200 million).",M05_official.pdf,26,Parks,Distinguishes the major state and local uses within the parks allocation.
+M05-T10,extreme_heat_allocation,"The $450 million extreme-heat allocation includes $200 million for community heat protection, $100 million for places people can use during heatwaves or disasters, and $150 million in local grants for environmental benefits such as reducing air pollution.","Extreme Heat ($450 Million). Much of this money would pay for activities focused on protecting communities from extreme heat ($200 million). These activities could include adding trees and greenspaces.
+
+Money would also support places for people to go during heatwaves or disasters ($100 million).
+
+The rest of the money would provide grants for local communities to conduct activities that provide environmental benefits, such as reducing air pollution ($150 million).",M05_official.pdf,26,Extreme Heat,Preserves the three materially different purposes within the extreme-heat allocation.
+M05-T11,agriculture_allocation,"The $300 million agriculture allocation includes $105 million for soil, air-pollution, and water-use improvements, $60 million for community gardens and farmers' markets, and additional activities such as farmworker transportation and farmland conservation.","Farms and Agriculture ($300 Million). Much of this money would be used for activities that encourage farmers to improve soil health, reduce air pollution, and use less water ($105 million).
+
+This money would also support community gardens and farmers' markets, such as by purchasing shade canopies ($60 million).
+
+The rest of this money would support a range of other activities, such as purchasing vans to transport farmworkers and conserving farmland.",M05_official.pdf,26,Farms and Agriculture,Captures the principal agricultural suballocations and other source-specified eligible uses.
+M05-T12,distributional_requirement,At least 40 percent of bond funding must directly benefit communities with lower incomes or greater vulnerability to climate-change impacts.,"Establishes Other Requirements for the Use of Funds. Proposition 4 requires the bond money to be used in certain ways. For example, at least 40 percent of bond money must be used for activities that directly benefit communities that
+
+have lower incomes or are more vulnerable to the impacts of climate change.",M05_official.pdf,26;27,Proposal — Establishes Other Requirements for the Use of Funds,Captures a mandatory distributional rule governing a large share of the total bond.
+M05-T13,accountability,"Proposition 4 includes accountability requirements, including annual audits and regular public reporting of how bond money is spent.","• Requires annual audits.
+
+Proposition 4 also requires regular public reporting of how the bond money is spent.",M05_official.pdf,24;27,Official Title and Summary; Proposal,Preserves the measure's two explicit spending-oversight mechanisms.
+M05-T14,state_fiscal_cost,"Repaying the bond is estimated to cost about $400 million annually for 40 years, with payments from the state General Fund.","Increased State Costs of About $400 Million Annually for 40 Years to Repay the Bond. The estimated cost to repay the bond would be about $400 million annually over a 40-year period.
+
+Payments would be made from the state General Fund. The General Fund is the account the state uses to pay for most public services, including education, health care, and prisons.",M05_official.pdf,27,Fiscal Effects,"Captures the primary state cost, its duration, and the source of repayment."
+M05-T15,borrowing_cost_and_scale,"Annual repayments would be less than one-half of 1 percent of the General Fund budget, while interest makes the inflation-adjusted total bond cost about 10 percent higher than paying up front.","This would be less than one-half of 1 percent of the state's total General Fund budget.
+
+Since the state has to pay interest on the money it borrows, the total cost of the bond would be about 10 percent more, after adjusting for inflation, than if the state paid up front with money it already has.",M05_official.pdf,27,Fiscal Effects,Provides both budget-scale context and the financing trade-off created by borrowing rather than paying cash.
+M05-T16,local_fiscal_tradeoff,"State bond funds could reduce some local costs by replacing local spending, but could also induce some governments to spend more on larger projects; on net, local governments likely would save an uncertain amount that could average tens of millions of dollars annually over the next few decades.","Likely Reduced Local Costs for Natural Resources and Climate Activities. The availability of state bond funds could have various fiscal effects on local governments.
+
+In some cases, the additional state funding could replace local government money that would otherwise be needed to pay for a project. For example, this could include using bond funds to help support an essential water treatment facility the local government otherwise would have needed to fund by itself.
+
+In other cases, however, the availability of state funds could encourage local governments to spend more money to build larger projects than they otherwise would. For example, this could include adding additional amenities to a local park.
+
+On net, Proposition 4 likely would result in savings to local governments. The amount of these savings is uncertain but could average tens of millions of dollars annually over the next few decades.",M05_official.pdf,27,Likely Reduced Local Costs for Natural Resources and Climate Activities,Captures both directions of the local fiscal response and the source's qualified net-savings estimate.
+M05-T17,conditional_savings_and_uncertainty,"If bond-funded projects reduce disaster risk or damage, they could reduce state and local response and recovery costs, but the amount of any such savings is uncertain.","Potential State and Local Savings if Funding Prevents Disasters. To the extent the bond funds result in completing activities that reduce the risk or amount of damage from disasters, it could reduce state and local costs for responding to and recovering from those events.
+
+For example, improving a levee could reduce the amount of flooding that occurs. Additionally, thinning trees in a forest could reduce the severity of wildfires.
+
+The amount of such potential savings is uncertain.",M05_official.pdf,27,Potential State and Local Savings if Funding Prevents Disasters,Preserves the explicitly conditional nature of disaster-related savings and the source's uncertainty about their magnitude.

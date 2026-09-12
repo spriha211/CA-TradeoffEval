@@ -1,0 +1,33 @@
+CA-TRADEOFFBENCH M11 FREEZE MANIFEST
+
+Created at UTC: 2026-07-28T19:20:21.834197+00:00
+Measure: M11 — California Proposition 36 (2024)
+Study role: confirmatory
+
+Freeze timing:
+Frozen before any M11 model outputs were generated.
+
+Validated structure:
+High-level claims: 12
+Atomic components: 33
+
+Raw file SHA-256 hashes:
+78de8b5170ccf9e7253f517f7bbb027a5810ee5b00cfa1f1889e431ea10ec367  data/source_documents/M11.txt
+6006dd0265c407292ea30c0dab22503bc3bca1076cbe3584d87388eb1c8a83a0  data/source_documents/M11_official.pdf
+26305a102545e283b45bad59f1fda91e4b083b118a9aab200c99673e42ee40c3  data/reference_inventories/M11_inventory.csv
+934579c6590c4de9b014b515a56d0a59c99dec55e2b9ac64f547084957248d3b  data/reference_inventories/M11_components.csv
+3020f3a5b31a6edf9497f0a556770db08750359179dbfe6ad83491e1211dca37  paper/M11_prefreeze_audit.md
+90e45cff62b0c6a1a26bcece07da402f73a3b05898a8c9dc85833a7f17874da0  data/reference_inventories/SCORING_GUIDE.md
+20b7e4334ceed4c4036e13bff3c602c7b4cc33f751c836f4214186ab4a081c9f  data/reference_inventories/INVENTORY_CONSTRUCTION_GUIDE.md
+f2e53bc08b77e3d4279f41b9d87d71881f9b38a85c1e84a4c225a9b52d24a94a  paper/protocol_v1_1.md
+
+Runner-normalized M11 source-text SHA-256:
+8f8df42c2914a36c0f942cd24ae1415b75d347ce0c6006b32ebe6ca7ce531433
+
+Hash convention:
+Raw hashes cover exact file bytes.
+Runner source hashing uses UTF-8 text after .strip().
+
+Freeze rule:
+M11.txt, M11_inventory.csv, and M11_components.csv
+must not be edited based on subsequently generated outputs.

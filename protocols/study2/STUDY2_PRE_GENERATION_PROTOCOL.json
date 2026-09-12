@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "created_at_utc": "2026-08-09T18:21:08Z",
+  "study_name": "Post-confirmatory cross-model replication",
+  "status": "Study 2 was designed after Study 1 results were known. It is an external replication, not part of the original confirmatory study.",
+  "generation_model": "Claude Sonnet 5",
+  "preferred_api_model": "claude-sonnet-5",
+  "measure_selection": {
+    "procedure": "Python random.Random(20260809).sample over the ordered list [M02,M03,M04,M05,M06,M07,M08,M09,M10,M11], selecting exactly 5 measures",
+    "random_seed": 20260809,
+    "ordered_population": ["M02", "M03", "M04", "M05", "M06", "M07", "M08", "M09", "M10", "M11"],
+    "sample_size": 5,
+    "frozen_selected_measures": ["M03", "M08", "M02", "M09", "M05"],
+    "selection_independent_of_study1_results": true
+  },
+  "experimental_design": {
+    "measures": 5,
+    "conditions": 4,
+    "paired_trials_per_measure_condition": 4,
+    "final_outputs_per_measure": 16,
+    "total_final_outputs": 80,
+    "condition_names": ["single agent", "independent ensemble", "normal debate", "critic debate"]
+  },
+  "protocol_equivalence": {
+    "require_same_as_study1": [
+      "substantive experimental protocol",
+      "prompts",
+      "sources",
+      "condition definitions",
+      "synthesis structure",
+      "critic instructions",
+      "token and word budgets",
+      "presentation-order logic",
+      "trial structure",
+      "shared independent initial analyses",
+      "normal revisions reused in critic debate",
+      "frozen claim and component inventories",
+      "scoring rules"
+    ],
+    "allowed_changes": "Only provider-specific formatting necessary to call Claude, with every deviation documented."
+  },
+  "estimands": {
+    "primary": {
+      "contrast": "critic debate - normal debate",
+      "outcome": "claim-weighted preservation"
+    },
+    "secondary_replication_contrasts": [
+      "independent ensemble - single agent",
+      "normal debate - independent ensemble"
+    ],
+    "secondary_robustness_outcome": "component-weighted preservation",
+    "distortion_outcomes": [
+      "mean component distortion severity",
+      "any-distortion rate",
+      "material-distortion rate"
+    ]
+  },
+  "blinding": {
+    "scoring_and_analysis_remain_blinded_until_human_scoring_is_locked": true,
+    "condition_mappings_sealed_separately": true,
+    "blind_ids_must_not_reveal_condition": true
+  },
+  "scoring": {
+    "production_prompt_path": "analysis/model_assisted_scoring/prompt_versions/scoring_prompt_v1.1-production.txt",
+    "production_prompt_sha256": "32097fee8cf8f7a3bc2e70ba1e3079b275763e9cc966e5d2d13e47981e7919d8",
+    "inventories_and_scoring_guide": "Reuse the immutable Study 1 frozen inventories and scoring guide without modification.",
+    "model_suggestions_require_blinded_human_verification": true
+  },
+  "namespace": {
+    "runs": "runs/cross_model_replication/claude_sonnet_5/",
+    "analysis": "analysis/cross_model_replication/claude_sonnet_5/",
+    "results": "results/cross_model_replication/claude_sonnet_5/"
+  },
+  "restrictions": [
+    "Never modify, overwrite, or merge Study 1 confirmatory artifacts.",
+    "Do not use Study 1 effect sizes to select measures or modify Study 2 protocol.",
+    "Do not edit inventories based on Claude outputs.",
+    "Do not unblind or calculate Study 2 condition results before human scoring is locked."
+  ]
+}

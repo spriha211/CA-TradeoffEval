@@ -1,0 +1,12 @@
+measure_id,proposition,election_date,title,policy_domain,study_role,source_status,inventory_status,components_status,run_status
+M01,35,2024-11-05,Provides Permanent Funding for Medi-Cal Health Care Services,healthcare,development,complete,complete,complete,pilot_complete
+M02,1,2024-03-05,Authorizes $6.38 Billion in Bonds to Build Mental Health Treatment Facilities and Provides Housing for the Homeless,behavioral_health_housing,confirmatory,complete,frozen,frozen,complete
+M03,2,2024-11-05,Authorizes Bonds for Public School and Community College Facilities,education_public_finance,confirmatory,complete,frozen,frozen,complete
+M04,3,2024-11-05,Constitutional Right to Marriage,civil_rights_governance,confirmatory,complete,frozen,frozen,complete
+M05,4,2024-11-05,Authorizes Bonds for Safe Drinking Water Wildfire Prevention and Climate Risks,environment_public_finance,confirmatory,complete,frozen,frozen,complete
+M06,5,2024-11-05,Allows Local Bonds for Affordable Housing and Public Infrastructure with 55 Percent Voter Approval,housing_local_finance,confirmatory,complete,frozen,frozen,complete
+M07,6,2024-11-05,Eliminates Constitutional Provision Allowing Involuntary Servitude for Incarcerated Persons,criminal_justice_governance,confirmatory,complete,frozen,frozen,complete
+M08,32,2024-11-05,Raises Minimum Wage,labor_economics,confirmatory,complete,frozen,frozen,complete
+M09,33,2024-11-05,Expands Local Governments Authority to Enact Rent Control on Residential Property,housing_local_governance,confirmatory,complete,frozen,frozen,complete
+M10,34,2024-11-05,Restricts Spending of Prescription Drug Revenues by Certain Health Care Providers,healthcare_regulation,confirmatory,complete,frozen,frozen,complete
+M11,36,2024-11-05,Allows Felony Charges and Increases Sentences for Certain Drug and Theft Crimes,criminal_justice,confirmatory,complete,frozen,frozen,complete

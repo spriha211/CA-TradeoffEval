@@ -1,0 +1,37 @@
+CA-TRADEOFFBENCH M03 FREEZE MANIFEST
+
+Created at UTC: 2026-07-22T05:09:21.939473+00:00
+Measure: M03 — California Proposition 2 (2024)
+Study role: confirmatory
+
+Freeze timing:
+Frozen before any M03 model outputs were generated.
+
+Validated structure:
+High-level claims: 17
+Atomic components: 58
+Missing source-support excerpts: 0
+Duplicate claim IDs: 0
+Duplicate component IDs: 0
+
+Raw file SHA-256 hashes:
+7e070826fd1612ecb19aa7812f396afb7ee89bb1b83537c75d061d4d6ad17f21  data/source_documents/M03.txt
+6bb2673685a8aae12df760757919b3424fa19e19611b1c33f4139c4d4d494dae  data/source_documents/M03_official.pdf
+da66aba2f69d54c7ae15adda0c6946d037dd656552fbb5b8a96f0f616c6af03a  data/reference_inventories/M03_inventory.csv
+111e85cc92842b455f64c470c8e590cee6794f384f4a08af20b263097de7801e  data/reference_inventories/M03_components.csv
+fd39cc9896c574752d90f2825c323ef046a82ac92c01999c4b01458637c1d2db  paper/M03_prefreeze_audit.md
+90e45cff62b0c6a1a26bcece07da402f73a3b05898a8c9dc85833a7f17874da0  data/reference_inventories/SCORING_GUIDE.md
+20b7e4334ceed4c4036e13bff3c602c7b4cc33f751c836f4214186ab4a081c9f  data/reference_inventories/INVENTORY_CONSTRUCTION_GUIDE.md
+f2e53bc08b77e3d4279f41b9d87d71881f9b38a85c1e84a4c225a9b52d24a94a  paper/protocol_v1_1.md
+
+Runner-normalized M03 source-text SHA-256:
+45db39f67f6a2b3a5a386ed5db232261d187918d723a0458b811d9467ceaa80e
+
+Hash convention:
+Raw file hashes cover exact bytes, including terminal newlines.
+The runner reads source text using UTF-8 and .strip(), so its
+logged source hash must match the runner-normalized hash above.
+
+Freeze rule:
+M03.txt, M03_inventory.csv, and M03_components.csv must not
+be edited based on any subsequently generated model output.

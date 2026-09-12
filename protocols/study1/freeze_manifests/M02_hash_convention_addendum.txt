@@ -1,0 +1,33 @@
+CA-TRADEOFFBENCH M02 SOURCE-HASH CONVENTION ADDENDUM
+
+Purpose:
+Reconcile the source hash in the pre-run freeze manifest with the source hash
+recorded by the experimental runner.
+
+Raw M02.txt file-byte SHA-256:
+6a7eefb7db42a93653748b8c860424a131a13748e91473b514af61dcac079db5
+
+Runner-normalized source-text SHA-256:
+cbba56438a44a5fc6f451b20ab91d69f6bbe3b9c8a6a2db3f385b4e6637fd355
+
+M02 Trial 1 logged source SHA-256:
+cbba56438a44a5fc6f451b20ab91d69f6bbe3b9c8a6a2db3f385b4e6637fd355
+
+Explanation:
+The freeze manifest used `shasum -a 256`, which hashes the exact file bytes,
+including the final newline.
+
+The runner loads source files with:
+    path.read_text(encoding="utf-8").strip()
+
+It therefore hashes and submits the same source text after removing only
+leading and trailing whitespace.
+
+The Trial 1 logged hash exactly matches SHA-256(M02.txt.strip()).
+
+Conclusion:
+M02 Trial 1 used the content of the frozen M02 source packet. The hash
+difference reflects two documented hashing conventions, not different
+substantive source content.
+
+The original freeze manifest and frozen source files remain unchanged.

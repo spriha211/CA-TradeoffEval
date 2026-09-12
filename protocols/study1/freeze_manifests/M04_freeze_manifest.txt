@@ -1,0 +1,37 @@
+CA-TRADEOFFBENCH M04 FREEZE MANIFEST
+
+Created at UTC: 2026-07-23T03:23:33.429925+00:00
+Measure: M04 — California Proposition 3 (2024)
+Study role: confirmatory
+
+Freeze timing:
+Frozen before any M04 model outputs were generated.
+
+Validated structure:
+High-level claims: 5
+Atomic components: 12
+Missing source-support excerpts: 0
+Duplicate claim IDs: 0
+Duplicate component IDs: 0
+
+Raw file SHA-256 hashes:
+3afbc46b809465c40ffac8b45689d10751f6635c4d51962a210e85d50711104d  data/source_documents/M04.txt
+5571d14fcdadf6c83edb1d3ba05abf65681a8bbb63d1ae0eba5e2d05ac4b73a8  data/source_documents/M04_official.pdf
+f42865f8c4f683711aec859510ea67f66b456387bbe7fa72306a55d714329f68  data/reference_inventories/M04_inventory.csv
+c606369661bdcf2edb1c314ba08c4e7765b0af31744c3012b1a0629154c3c310  data/reference_inventories/M04_components.csv
+76f9786103c246ed903e7fdf07d1b4dbf819ee09ba1dc0991fe636011d78a57b  paper/M04_prefreeze_audit.md
+90e45cff62b0c6a1a26bcece07da402f73a3b05898a8c9dc85833a7f17874da0  data/reference_inventories/SCORING_GUIDE.md
+20b7e4334ceed4c4036e13bff3c602c7b4cc33f751c836f4214186ab4a081c9f  data/reference_inventories/INVENTORY_CONSTRUCTION_GUIDE.md
+f2e53bc08b77e3d4279f41b9d87d71881f9b38a85c1e84a4c225a9b52d24a94a  paper/protocol_v1_1.md
+
+Runner-normalized M04 source-text SHA-256:
+b64a8fcdb646d914fa5847e59dcd8b728c97a58d3bde28c3deeeb9ed99b306b9
+
+Hash convention:
+Raw hashes cover the exact file bytes.
+The runner reads source text using UTF-8 and .strip(),
+so the logged run hash must match the normalized hash above.
+
+Freeze rule:
+M04.txt, M04_inventory.csv, and M04_components.csv
+must not be edited based on subsequently generated model output.

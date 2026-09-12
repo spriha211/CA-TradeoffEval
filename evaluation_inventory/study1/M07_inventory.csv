@@ -1,0 +1,31 @@
+claim_id,category,reference_claim,supporting_source_text,source_document,source_page,source_section,importance_note
+M07-T01,legal_baseline,"Before Proposition 6, the California Constitution banned involuntary servitude except as punishment for crime; involuntary servitude commonly refers to forcing people to work against their will.","""Involuntary Servitude"" Banned Except as a Punishment for Crime. The California Constitution bans involuntary servitude except as a punishment for crime.
+
+The Constitution does not define involuntary servitude. However, involuntary servitude commonly refers to forcing people to work against their will.",M07_official.pdf,34,Background,Necessary legal baseline for understanding the constitutional change.
+M07-T02,work_rules_baseline,"People in state prison and county jail can be required to work or participate in other activities, and refusal can carry consequences.","Some People in State Prison and County Jail Work. People in prison and jail can be required to work or do other activities such as taking classes.
+
+People who refuse to work or do other activities can face consequences such as losing the ability to make regular phone calls.",M07_official.pdf,34,Background,Defines the existing work-and-discipline system changed by the measure.
+M07-T03,work_context,"Roughly one-third of people in prison work, many are paid less than $1 per hour, and workers may earn time credits that reduce time served.","Roughly one-third of people in prison work. Many of these workers are paid less than $1 per hour.
+
+Workers can also earn ""time credits"" that reduce the amount of time they serve in prison or jail.",M07_official.pdf,34,Background,"Provides source-grounded scale, compensation, and incentive context needed to interpret the fiscal mechanisms."
+M07-T04,constitutional_change,"Proposition 6 changes the California Constitution to ban involuntary servitude as punishment for crime, removing the existing exception that permits jails and prisons to impose it.","• Amends the California Constitution to remove the current constitutional provision that allows jails and prisons to impose involuntary servitude to punish crime, meaning forcing incarcerated persons to work.
+
+Bans Involuntary Servitude as a Punishment for Crime. Proposition 6 changes the Constitution to ban involuntary servitude as a punishment for crime.",M07_official.pdf,34;35,Official Title and Summary; Proposal,Captures the central constitutional policy change.
+M07-T05,work_refusal_and_credits,"State prisons may not discipline incarcerated people for refusing work, while voluntary work and time credits for working remain permitted.","• Prohibits the California Department of Corrections and Rehabilitation from punishing incarcerated persons for refusing a work assignment.
+
+• Allows incarcerated persons to voluntarily accept work assignments in exchange for credit to reduce their sentences.
+
+It also bans state prisons from disciplining people who refuse to work.
+
+However, Proposition 6 states it does not stop prisons from giving people time credits for working.",M07_official.pdf,34;35,Official Title and Summary; Proposal,Captures both the restriction on discipline and the retained ability to incentivize voluntary work through credits.
+M07-T06,fiscal_uncertainty,Proposition 6 could either increase or decrease state and local criminal-justice costs; the fiscal effect is uncertain because it depends on changes to work rules and responses by incarcerated people and correctional institutions.,"Potential Increase or Decrease in State and Local Criminal Justice Costs. The fiscal effects of Proposition 6 on state and local criminal justice costs are uncertain.
+
+This is because it would depend on how Proposition 6 would change rules around work for people in state prison and county jail and how people would respond to those changes.",M07_official.pdf,35,Fiscal Effects,Preserves the explicitly uncertain direction and source of fiscal uncertainty.
+M07-T07,fiscal_mechanisms,"If prisons or jails need alternative work incentives, increasing pay could increase costs, while providing more time credits could reduce costs because people would serve less time.","For example, if people in prison and jail no longer face consequences for refusing to work, prisons and/or jails might have to find other ways to encourage working.
+
+If this is done by increasing pay, costs would increase.
+
+If this is done by giving more time credits instead, costs would decrease because people would serve less time.",M07_official.pdf,35,Fiscal Effects,Captures the source's opposing mechanisms for potential cost increases versus decreases.
+M07-T08,fiscal_magnitude,"Any increase or decrease in state and local criminal-justice costs likely would not exceed tens of millions of dollars annually, less than one-half of 1 percent of the state's General Fund budget.","Any potential increase or decrease in state and local criminal justice costs likely would not exceed the tens of millions of dollars each year annually.
+
+This amount is less than one-half of 1 percent of the state's total General Fund budget.",M07_official.pdf,35,Fiscal Effects,Preserves the estimated upper scale and budget context of the fiscal effect.

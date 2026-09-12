@@ -1,0 +1,195 @@
+{
+  "analysis_scripts": [
+    {
+      "path": "src/cross_model_replication/post_lock_analysis.py",
+      "sha256": "179663ea517fb040f7e71dd46bcffdfbddaabc2c462ac3147fc4251e291ac636"
+    }
+  ],
+  "bootstrap": {
+    "interval": "95% percentile",
+    "measures_sampled_per_replicate": 5,
+    "provenance": "reused already-fixed Study 1 analysis procedure",
+    "replicates": 10000,
+    "resampling_unit": "measure",
+    "seed": 20260809
+  },
+  "created_at_utc": "2026-08-09T21:10:25.295607+00:00",
+  "generated_artifacts": [
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/audits/STUDY2_UNBLINDING_AUDIT_MANIFEST.json",
+      "sha256": "cba3ce4c0598afc2e4fb1fb353f17ad28e06666dcd2c8fc21e1e455116d509fe"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/master_analysis_table.csv",
+      "sha256": "4fa358aaf192564f5f408928083aacc924435e49c83aa9c7ff6fb4117e21a071"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/trial_level_summary.csv",
+      "sha256": "f52d763431b204817bda86acea0a266a40bf765a0d858aa8c194d4cf680e0b5c"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/measure_condition_summary.csv",
+      "sha256": "4f6beb7958936e0fea6fd6c16f5192399b98b53ef0118422d946b2f99750fbe9"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/condition_summary.csv",
+      "sha256": "8980055b8f791d2014b75daf04733dac510329544871794098ecab5e8d518328"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/paired_contrasts.csv",
+      "sha256": "8ca9012747b074d48de934121e8cae56fbc2f5c05791e95e6f2f58961e9e8104"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/aggregate_contrasts.csv",
+      "sha256": "f96e1c225c707e7108f357faddc07aaf4c159727d6c2fedde014c3136b9e4f66"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/leave_one_measure_out.csv",
+      "sha256": "fdda371d26e7d6fa1c57547268289de3aea2dacf8bae7e251b9a271e5517ea8c"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/CROSS_MODEL_COMPARISON.csv",
+      "sha256": "6a02aade03581212ad625f16691b630e6b12a636687f18e6301fc5623e4b5d80"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureA_claude_condition_means.svg",
+      "sha256": "615c7cf3fc0120cdccb68db641923d5f5b6b3501d0ea285a7c8fdbba489e5b41"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureA_claude_condition_means.pdf",
+      "sha256": "2552bb6a6268e624d209fcc99b726a358dc19255daf86fb177c8ad7c066f5737"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureA_claude_condition_means.png",
+      "sha256": "1628856ed423d20f4dc0f646f1ce1b1dae6dd2a7aff12a878ae498c13bde5fdb"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureB_claude_paired_contrasts.svg",
+      "sha256": "1030a9eca00075946d14c1af454e8b48f27df257c397fb93ba31b328bb89abff"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureB_claude_paired_contrasts.pdf",
+      "sha256": "e245a218ce7d60e278b5dfe7dda57eee85524fde7c6100541f410987cda22457"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureB_claude_paired_contrasts.png",
+      "sha256": "bad78d17ebdfac46c2ad7efee02dad42aabf789af8084e35337b1f9313739b32"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureC_gpt_vs_claude_primary.svg",
+      "sha256": "99f87670e9a75e6d52e584ed989c8b8d005a645f6b820bef49962be235675a51"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureC_gpt_vs_claude_primary.pdf",
+      "sha256": "6e559ac11bcade88aa506fc8ab61674442e5bebbc1bd74c38bc974a43b344b5e"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureC_gpt_vs_claude_primary.png",
+      "sha256": "8a186ccd5e3bb8c877c038fbe42c4489da3f3a111e463003d64315cb44d6390e"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureD_component_weighted_comparison.svg",
+      "sha256": "41d34505e1329db46d216f46161e383758cdf1b114e54e67fb1b61841eefcb69"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureD_component_weighted_comparison.pdf",
+      "sha256": "f1dd6b57ec622699b558a1110273add01dbf200e834b492f145465d33e6f04d1"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/figures/figureD_component_weighted_comparison.png",
+      "sha256": "751e5b29d92c57519920bd27b999d4d74c37c0b85b444b24ca661adcbd896ab0"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/STUDY2_RESULTS_SUMMARY.md",
+      "sha256": "5c02082ed19e0fa66cc98cc3f21bb9898ca69a0c9a7f688d3a739d62e6de706a"
+    },
+    {
+      "path": "results/cross_model_replication/claude_sonnet_5/post_lock_analysis/CROSS_MODEL_PAPER_RESULTS.md",
+      "sha256": "3cce7f1ab4638b1bda308294f14b78134366aa71e0eef08f760368850d89317a"
+    }
+  ],
+  "input_hashes": {
+    "analysis/cross_model_replication/claude_sonnet_5/reviews/M02_review_log.jsonl": "8ef4ac43a5684ffdd29df28850c2c1dae80de259544fd737693acbb16b0cd3a7",
+    "analysis/cross_model_replication/claude_sonnet_5/reviews/M03_review_log.jsonl": "9e70fd53d696e8a95829717491a5844c2690a6032438f653b5e019971c2bbc8c",
+    "analysis/cross_model_replication/claude_sonnet_5/reviews/M05_review_log.jsonl": "adbd5ea8ba1ecb8f7802036e94c03313ba5c40258e5842eb6ffabe65310f7506",
+    "analysis/cross_model_replication/claude_sonnet_5/reviews/M08_review_log.jsonl": "76b7c8909da47649da2f3dd645697a7047bc42cec7b571b49e650b22f048b122",
+    "analysis/cross_model_replication/claude_sonnet_5/reviews/M09_review_log.jsonl": "8fe9067dd98c51e6a36b9565f1db74ffa78bf8e08bba79f667312bf1b6b84433",
+    "data/reference_inventories/M02_components.csv": "91679bd3c3596439eaac7b1254e786161d6293ecfd36780e9e80ef95584b243b",
+    "data/reference_inventories/M03_components.csv": "111e85cc92842b455f64c470c8e590cee6794f384f4a08af20b263097de7801e",
+    "data/reference_inventories/M05_components.csv": "2c747d3f4668f943be6b89b0a7f4ac172dc2011c8a3ab5242b6a8beb91ab442b",
+    "data/reference_inventories/M08_components.csv": "e6995415d613c4e58968ff6477ae19ee98ca309884e96cb639c199855ea4f3d7",
+    "data/reference_inventories/M09_components.csv": "a61f5c85f222b57159c2551d0d54d61d22ba8febd0b898b43486f74ee777aaf7",
+    "results/cross_model_replication/claude_sonnet_5/locked_scoring/M02/M02_locked_scoring.csv": "1d090d805088b865d89c8016c3c25d6c861be4084f1dc202040a9536188ac5c3",
+    "results/cross_model_replication/claude_sonnet_5/locked_scoring/M02/M02_scoring_lock_manifest.json": "b1e8e6d0b02203f0ac96910cde3a15caea1d277f0fa2ae38bdb1afb0ac527eb6",
+    "results/cross_model_replication/claude_sonnet_5/locked_scoring/M03/M03_locked_scoring.csv": "d9e3d8b1be5a0cb7a0eac9b856571c3f5f2d11ffb50e0eb2f62f4c25e986619e",
+    "results/cross_model_replication/claude_sonnet_5/locked_scoring/M03/M03_scoring_lock_manifest.json": "dcc2a6fd0bd93ca9f67d409b586ad1bae756d079feca3c87a26a5e69639a3aca",
+    "results/cross_model_replication/claude_sonnet_5/locked_scoring/M05/M05_locked_scoring.csv": "f418e2a4ed17d50850e1faf2564901961feb48d19cc8d8f969eff43e17d8b1f6",
+    "results/cross_model_replication/claude_sonnet_5/locked_scoring/M05/M05_scoring_lock_manifest.json": "ecfcd29781685fc496513488183014b508df86de845b0c018ff017fc920826b5",
+    "results/cross_model_replication/claude_sonnet_5/locked_scoring/M08/M08_locked_scoring.csv": "c5fde8412f93ac0928a734469dba757fbe31e2a285715b50ebb0444433185337",
+    "results/cross_model_replication/claude_sonnet_5/locked_scoring/M08/M08_scoring_lock_manifest.json": "000d217d07a3a19c0dd3c198a5a3ee507a8fb576318734560da913d318a933e4",
+    "results/cross_model_replication/claude_sonnet_5/locked_scoring/M09/M09_locked_scoring.csv": "92ab6eab8ef25e79b4fd0ad74c4e340b892ce93314dfbbc78b767e2d2c327568",
+    "results/cross_model_replication/claude_sonnet_5/locked_scoring/M09/M09_scoring_lock_manifest.json": "2a76cb4400201f48f8b2f5754ac8e8de8951a48dfe5347d5f341d3868571cdc5",
+    "results/post_lock_analysis/aggregate_contrasts.csv": "9e9acca14d89f801a5c798a6a18d93531edf35a28fe4895fa154370264b41529",
+    "runs/audits/cross_model_replication/STUDY2_PRE_GENERATION_PROTOCOL.json": "c6a054ad78c8f3f1e1f06428dcc7ac2a5d74a90b40f9b530b514507c60d619b8",
+    "runs/audits/cross_model_replication/STUDY2_PRE_UNBLIND_INTEGRITY_MANIFEST.json": "181a4f13298d2a997346ea71e4e8ca5d3b2148ebeb8be3da3c47623bf1c01fa1",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M02/trial01/complete.json": "ae9307c56402416497f871f12a13ac5496396b6bde96d2d380bba0db560ae804",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M02/trial02/complete.json": "96ab218209cda47a88ec75b1ef0f64491a38aec3adc659770aa948f0441d32a3",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M02/trial03/complete.json": "5054d8fcca9d799d2810050cdcd1f11ef4b31efa6337a80562a162e70331814a",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M02/trial04/complete.json": "1cafdeb45e157c2f717e4b82edfde3b14ab0a84f9edfc988b9a03e21277014f7",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M03/trial01/complete.json": "ea8df508e7990720d4f101d8986dfd9b7ea2473475079d8da45e7ec388f2080d",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M03/trial02/complete.json": "a9f0c40edb8eb88d23ffa27d9c3915d5c4f2566b2c0021cbf578da4399ec30ea",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M03/trial03/complete.json": "4840fd55b42045d74f8da501e5b959352fda79fc1d8da42bd6de8eab5b52ed96",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M03/trial04/complete.json": "d46df6a198e0b0d6e394e157862c95c4da763b0202ed3ee6256842a690d2be8d",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M05/trial01/complete.json": "03f79bb257e0499e1357916ac32b0ed2b849d8c80c1a79138adda506c99f40c8",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M05/trial02/complete.json": "c0079b1ae59c4940cbf5c01b47febf84b964abdeda8e60b5e2fd685762eeab6c",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M05/trial03/complete.json": "fcd11a31b1703bc826e351aa6581d32e66f0b8d7852b3131b2498cb5d65253d6",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M05/trial04/complete.json": "5569a8d277b21df9c6479ab1b4411fe777ec040769d522aa083ebe6056cbb9c7",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M08/trial01/complete.json": "5285676f9db79c51c6aed174c7a63ff442240f86e9347d1e2fed93ffb7323346",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M08/trial02/complete.json": "18f9510d1ea3042e617d6126426b1945e7bdad7cafd296ad780252af8a50a2a5",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M08/trial03/complete.json": "760131f72db8a1c1e84d88f482f180fd312253b5258dc5fa06f9cb45fbb39797",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M08/trial04/complete.json": "29ae0f3fefc1fa2106f1cf9a450a13bc4ed388acd9f2b88ce69736da18bf788a",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M09/trial01/complete.json": "7cee8bd3eb2c503a9489e67b888b5afb324b56f1906209e18ec1fe3014884a9b",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M09/trial02/complete.json": "f9165310467e60414e021f424b7b9d8511ed4e4c7e020e0e4ec93879b6c949c5",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M09/trial03/complete.json": "15ae5299e812b6f0c75fa92890293851cbd66de4e559b1a09b43b97f8af213af",
+    "runs/cross_model_replication/claude_sonnet_5/generation/M09/trial04/complete.json": "bef5263736d6f5634ddbfd6eead4a2d2418639c94f58980fbfb3ad54f7fd2816",
+    "runs/cross_model_replication/claude_sonnet_5/sealed_private_mappings/M02_blind_mapping_private.json": "9a646fdc6e0ceb6f0d129d73b3c421c35036d03a9990f2df63551e919b4420c6",
+    "runs/cross_model_replication/claude_sonnet_5/sealed_private_mappings/M03_blind_mapping_private.json": "b2429464cd925ffb8b5277f1c744cdb018343459cbbf16ebbb7b5d40977d2c4c",
+    "runs/cross_model_replication/claude_sonnet_5/sealed_private_mappings/M05_blind_mapping_private.json": "f506e8f983aef90ea5a0986b7fd018be0c02284208018e06d0f9a6a4c10b54e3",
+    "runs/cross_model_replication/claude_sonnet_5/sealed_private_mappings/M08_blind_mapping_private.json": "09768b458fbf9a7645326a4e7830b11fbece753d5ef3bf93adde168221cf25ac",
+    "runs/cross_model_replication/claude_sonnet_5/sealed_private_mappings/M09_blind_mapping_private.json": "48b4e6f812b8720ea832b8efe7f82262499dd00439fd81e317128a2304e38f36"
+  },
+  "integrity_checks": {
+    "3840_locked_rows": true,
+    "eighty_outputs": true,
+    "fifteen_aggregate_outcomes": true,
+    "fifteen_measure_contrasts": true,
+    "final_gate_pass": true,
+    "five_measures": true,
+    "four_conditions_per_measure": true,
+    "four_trials_per_measure_condition": true,
+    "no_duplicate_master_keys": true,
+    "no_p_values_or_pooling": true,
+    "seventy_five_lomo_rows": true
+  },
+  "mapping_hashes": {
+    "runs/cross_model_replication/claude_sonnet_5/sealed_private_mappings/M02_blind_mapping_private.json": "9a646fdc6e0ceb6f0d129d73b3c421c35036d03a9990f2df63551e919b4420c6",
+    "runs/cross_model_replication/claude_sonnet_5/sealed_private_mappings/M03_blind_mapping_private.json": "b2429464cd925ffb8b5277f1c744cdb018343459cbbf16ebbb7b5d40977d2c4c",
+    "runs/cross_model_replication/claude_sonnet_5/sealed_private_mappings/M05_blind_mapping_private.json": "f506e8f983aef90ea5a0986b7fd018be0c02284208018e06d0f9a6a4c10b54e3",
+    "runs/cross_model_replication/claude_sonnet_5/sealed_private_mappings/M08_blind_mapping_private.json": "09768b458fbf9a7645326a4e7830b11fbece753d5ef3bf93adde168221cf25ac",
+    "runs/cross_model_replication/claude_sonnet_5/sealed_private_mappings/M09_blind_mapping_private.json": "48b4e6f812b8720ea832b8efe7f82262499dd00439fd81e317128a2304e38f36"
+  },
+  "schema_version": "1.0",
+  "status": "PASS",
+  "study": "Study 2 external replication",
+  "versions": {
+    "commit": "ffbadb5699d6f502ef3fe832246794e2cd0ede69",
+    "matplotlib": "3.10.0",
+    "numpy": "2.5.1",
+    "python": "3.13.5",
+    "worktree_status": "?? analysis/\n?? results/\n?? runs/audits/cross_model_replication/\n?? runs/audits/model_assisted_scoring/\n?? runs/cross_model_replication/\n?? src/analysis/\n?? src/cross_model_replication/\n?? src/scoring/\n?? tests/"
+  },
+  "warnings": [
+    "Study 2 has five measures and is reported separately from Study 1.",
+    "Cross-model comparisons are descriptive; no pooled estimate or formal cross-study test."
+  ]
+}

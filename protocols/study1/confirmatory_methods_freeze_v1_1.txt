@@ -1,0 +1,28 @@
+CA-TRADEOFFBENCH CONFIRMATORY METHODS FREEZE v1.1
+Created: 2026-07-21T17:18:00Z
+
+Development measure: M01
+Confirmatory measures: M02-M11
+
+Primary model: gpt-5.6-sol
+Reasoning mode: standard
+Reasoning effort: medium
+Text verbosity: medium
+
+Conditions:
+1. Single agent
+2. Independent ensemble
+3. Normal debate
+4. Source-grounded critic debate
+
+SHA-256 FILE HASHES
+====================
+98e18734d33272deb44745eb35314ab3e7776c3ff20ebf67e297d103e95bb525  paper/protocol_v1_1.md
+c1e95e4bcc36a11b40a08d655b20c9f496d62ff84d0f2ec662ea8d408b2d624d  paper/M01_development_findings.md
+90e45cff62b0c6a1a26bcece07da402f73a3b05898a8c9dc85833a7f17874da0  data/reference_inventories/SCORING_GUIDE_v1_1.md
+20b7e4334ceed4c4036e13bff3c602c7b4cc33f751c836f4214186ab4a081c9f  data/reference_inventories/INVENTORY_CONSTRUCTION_GUIDE.md
+04dd32680e67363c02824dfcf875a0c6bd09f07dc70b3b092cccdb41b95cc646  prompts/v1_0/round1.txt
+3bee1cc6f7481b9b42e0e6311dfdd6472433e9644acb850e2236eec399396a94  prompts/v1_0/normal_review.txt
+0de45e1ff567d6dc11a179021c40b32fedd64fc66665231f9f3c4339076c9011  prompts/v1_0/critic.txt
+3bfd6cd3f23e6da36280ce63fb703204d61b4b50ce80127d580c0bf412dd777f  prompts/v1_0/synthesis.txt
+680334ae6c48023fd3f788bb2448d130e9a3912993ad38f076dc2e0bc9c0537d  src/run_four_setups.py

@@ -1,0 +1,33 @@
+CA-TRADEOFFBENCH M08 FREEZE MANIFEST
+
+Created at UTC: 2026-07-28T19:20:21.834197+00:00
+Measure: M08 — California Proposition 32 (2024)
+Study role: confirmatory
+
+Freeze timing:
+Frozen before any M08 model outputs were generated.
+
+Validated structure:
+High-level claims: 9
+Atomic components: 28
+
+Raw file SHA-256 hashes:
+85083f65f86e505a0a29687d3b973956ab66984e9184f2facdaae4b35272d7f5  data/source_documents/M08.txt
+7c0159e2bad3e5a3ced8810b9ff92f8873215fbeacd2ff0f1c972fc36c7d2f5a  data/source_documents/M08_official.pdf
+13d130ed1ecb37e4e7910c7a5568365c45b290452fd75bfc4fead6563562bb39  data/reference_inventories/M08_inventory.csv
+e6995415d613c4e58968ff6477ae19ee98ca309884e96cb639c199855ea4f3d7  data/reference_inventories/M08_components.csv
+6426b5ae24c7634b59822a492a5a08c0121d607bc1a52bea3d059877360eec13  paper/M08_prefreeze_audit.md
+90e45cff62b0c6a1a26bcece07da402f73a3b05898a8c9dc85833a7f17874da0  data/reference_inventories/SCORING_GUIDE.md
+20b7e4334ceed4c4036e13bff3c602c7b4cc33f751c836f4214186ab4a081c9f  data/reference_inventories/INVENTORY_CONSTRUCTION_GUIDE.md
+f2e53bc08b77e3d4279f41b9d87d71881f9b38a85c1e84a4c225a9b52d24a94a  paper/protocol_v1_1.md
+
+Runner-normalized M08 source-text SHA-256:
+f60cb90b7e4650e68cf3c9bab6c37fa69c887344ec08e913e46d3bc85fbade73
+
+Hash convention:
+Raw hashes cover exact file bytes.
+Runner source hashing uses UTF-8 text after .strip().
+
+Freeze rule:
+M08.txt, M08_inventory.csv, and M08_components.csv
+must not be edited based on subsequently generated outputs.

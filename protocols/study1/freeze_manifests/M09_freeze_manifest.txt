@@ -1,0 +1,33 @@
+CA-TRADEOFFBENCH M09 FREEZE MANIFEST
+
+Created at UTC: 2026-07-28T19:20:21.834197+00:00
+Measure: M09 — California Proposition 33 (2024)
+Study role: confirmatory
+
+Freeze timing:
+Frozen before any M09 model outputs were generated.
+
+Validated structure:
+High-level claims: 10
+Atomic components: 25
+
+Raw file SHA-256 hashes:
+6392758e336bd5d288d86e148cd7facc78da2c08e773f90431c529284bdbe0a4  data/source_documents/M09.txt
+9cfef5ddbd0c4d2dbcaab355787e4edd670f8e65f66e61a26b625885bf738882  data/source_documents/M09_official.pdf
+845ff5999c49cbb9d0c98a74c9c31104cc2b92e5a5e3a5f353d660ecee767c92  data/reference_inventories/M09_inventory.csv
+a61f5c85f222b57159c2551d0d54d61d22ba8febd0b898b43486f74ee777aaf7  data/reference_inventories/M09_components.csv
+3d2684108335f16164b72bd223322f3d7353eb67665ad63187d6207499ac8e31  paper/M09_prefreeze_audit.md
+90e45cff62b0c6a1a26bcece07da402f73a3b05898a8c9dc85833a7f17874da0  data/reference_inventories/SCORING_GUIDE.md
+20b7e4334ceed4c4036e13bff3c602c7b4cc33f751c836f4214186ab4a081c9f  data/reference_inventories/INVENTORY_CONSTRUCTION_GUIDE.md
+f2e53bc08b77e3d4279f41b9d87d71881f9b38a85c1e84a4c225a9b52d24a94a  paper/protocol_v1_1.md
+
+Runner-normalized M09 source-text SHA-256:
+db8611fb3d7ca2a528dda789f95ff7006140cba60a0b39ebf1706ade74a02584
+
+Hash convention:
+Raw hashes cover exact file bytes.
+Runner source hashing uses UTF-8 text after .strip().
+
+Freeze rule:
+M09.txt, M09_inventory.csv, and M09_components.csv
+must not be edited based on subsequently generated outputs.

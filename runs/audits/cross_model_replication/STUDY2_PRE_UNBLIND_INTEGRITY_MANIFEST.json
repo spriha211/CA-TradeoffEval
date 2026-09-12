@@ -1,0 +1,491 @@
+{
+  "schema_version": "1.0",
+  "study": "Study 2",
+  "audit_phase": "PRE_UNBLIND",
+  "created_at_utc": "2026-08-09T21:03:48.075609+00:00",
+  "status": "PASS",
+  "mapping_accessed": false,
+  "protocol": {
+    "path": "runs/audits/cross_model_replication/STUDY2_PRE_GENERATION_PROTOCOL.json",
+    "sha256": "c6a054ad78c8f3f1e1f06428dcc7ac2a5d74a90b40f9b530b514507c60d619b8"
+  },
+  "measure_count": 5,
+  "total_blinded_outputs": 80,
+  "total_locked_scoring_rows": 3840,
+  "unresolved_flag_count": 0,
+  "measures": [
+    {
+      "measure_id": "M03",
+      "status": "PASS",
+      "row_count": 928,
+      "blind_output_count": 16,
+      "unresolved_flag_count": 0,
+      "locked_scoring_csv": "results/cross_model_replication/claude_sonnet_5/locked_scoring/M03/M03_locked_scoring.csv",
+      "locked_scoring_sha256": "d9e3d8b1be5a0cb7a0eac9b856571c3f5f2d11ffb50e0eb2f62f4c25e986619e",
+      "scoring_lock_manifest": "results/cross_model_replication/claude_sonnet_5/locked_scoring/M03/M03_scoring_lock_manifest.json",
+      "scoring_lock_manifest_sha256": "dcc2a6fd0bd93ca9f67d409b586ad1bae756d079feca3c87a26a5e69639a3aca",
+      "review_log": "analysis/cross_model_replication/claude_sonnet_5/reviews/M03_review_log.jsonl",
+      "review_log_sha256": "9e70fd53d696e8a95829717491a5844c2690a6032438f653b5e019971c2bbc8c",
+      "blinded_outputs": [
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C001.txt",
+          "sha256": "7a76aaa9d63ba747f751cf94160daf78e3f8e554aee62e25568a510364ad31e2"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C002.txt",
+          "sha256": "a3b078ddeb60277625e49d19a6181df92ecee2cd15218879252ae5e8ddf91927"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C003.txt",
+          "sha256": "976aeee01d240904e4d02344804b8d37c759fb0d2fff2432e6bdbf9f3a05edf5"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C004.txt",
+          "sha256": "1f47c328839d91f1272ec7da7e34f93ff8c39cbfdf347c23122b676920f31bf6"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C005.txt",
+          "sha256": "0db8992f749d8e5c9bb4a36334a993fb51142e4469213efc4850b4db3efd70a2"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C006.txt",
+          "sha256": "92cb1087a222a9a1d0ed5cdfb29e8c75cb87c3c183adf36ea4f01051bd9a5ebd"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C007.txt",
+          "sha256": "ce12e46aa54b284fa0d03eed656562092b9f834ed710fe99c2ac6c953492d245"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C008.txt",
+          "sha256": "37fb7efa502418dbc50d54c4fb793db6540adf07cf6449d68e710b881458d3c4"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C009.txt",
+          "sha256": "af29c35cb369f9bb12fcf1bf58757ecb85a360fdfc9a071e357506d534df9561"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C010.txt",
+          "sha256": "b888914b1ed0875b05d031d577d300984af0025b5b47a57c0362e7b5567ce580"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C011.txt",
+          "sha256": "229a5dbd463b5e2d1239eaf9176edd726c0c87a63772f807c8f3b0781cd3d5ca"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C012.txt",
+          "sha256": "a24310ca08358281791d1d5ee140ddf04dbfa898d8bace4d86dacc9a365e00d0"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C013.txt",
+          "sha256": "5d8614a255e2fb3c0fd37d57eafe493500479de94a161fc1fe0b77c13646e7c2"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C014.txt",
+          "sha256": "24ee10288a3081f3029a7e6938782ed97034a19d947ec7c2357f92cd4613bfa2"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C015.txt",
+          "sha256": "6372217bcaf9fc369f643c6a763e40eba89b36c1a889a11296f79bfa42e64643"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M03/M03-C016.txt",
+          "sha256": "37032a769b53a2f3f92cbb5dd9aa44d4ab3de1a4e8ff01acf1825affac99e407"
+        }
+      ],
+      "checks": {
+        "locked_csv_hash_matches": true,
+        "review_log_hash_matches": true,
+        "suggestions_hash_matches": true,
+        "jobs_manifest_hash_matches": true,
+        "inventory_hash_matches": true,
+        "scoring_guide_hash_matches": true,
+        "scoring_prompt_hash_matches": true,
+        "expected_row_count": true,
+        "unique_blind_component_pairs": true,
+        "all_rows_valid_and_reviewed": true,
+        "zero_unresolved_flags": true,
+        "sixteen_blinded_outputs": true
+      }
+    },
+    {
+      "measure_id": "M08",
+      "status": "PASS",
+      "row_count": 448,
+      "blind_output_count": 16,
+      "unresolved_flag_count": 0,
+      "locked_scoring_csv": "results/cross_model_replication/claude_sonnet_5/locked_scoring/M08/M08_locked_scoring.csv",
+      "locked_scoring_sha256": "c5fde8412f93ac0928a734469dba757fbe31e2a285715b50ebb0444433185337",
+      "scoring_lock_manifest": "results/cross_model_replication/claude_sonnet_5/locked_scoring/M08/M08_scoring_lock_manifest.json",
+      "scoring_lock_manifest_sha256": "000d217d07a3a19c0dd3c198a5a3ee507a8fb576318734560da913d318a933e4",
+      "review_log": "analysis/cross_model_replication/claude_sonnet_5/reviews/M08_review_log.jsonl",
+      "review_log_sha256": "76b7c8909da47649da2f3dd645697a7047bc42cec7b571b49e650b22f048b122",
+      "blinded_outputs": [
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C001.txt",
+          "sha256": "2ce65f1f6c4ac191298c8471f4326ad768afbcbc0f759a2d32521671ea6b0276"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C002.txt",
+          "sha256": "f29c8bdd929995658b8e0c2d8495653475ce1a101c417a714696425cc1595211"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C003.txt",
+          "sha256": "097da10c5c9ca370349140131394daca4f39cc87e6bdcc206e704b2ff28179c7"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C004.txt",
+          "sha256": "1e163ca4d08f20001ece66aac411d9e2c8469f4f55b98e37575974d371cdad52"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C005.txt",
+          "sha256": "4152b2cc73d22d7e16d0d550a147c98079c1b6749f0531bd377299b4e09d0def"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C006.txt",
+          "sha256": "e967e37a94fe265e0ad96f6a6c70eaf5a964e2ff91fba57618126d33a96f77ee"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C007.txt",
+          "sha256": "927efe642b32057a1ca37335d549979654243d5d5db40dc896cf3d208c0a026f"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C008.txt",
+          "sha256": "09ae2b1a8108ab08f57ea033ab5ec364d55f6930ea82d807a58a0c287bf3248a"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C009.txt",
+          "sha256": "52e51ab80e83e1838c17104ef43a0293093413f5d9b6a19a443081ec74583f3d"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C010.txt",
+          "sha256": "94edcc8d83e5329b9369f3fd6976d773ab2008b2369f8df7c0257b8146308e17"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C011.txt",
+          "sha256": "25c26f3071cf28706744c7b64f208a954619aab0ee4b35de9b93ea51c15a8b5a"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C012.txt",
+          "sha256": "bec47bade6a787e0447826a3635b4f6b1a50d8435d43196652ce71595390549c"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C013.txt",
+          "sha256": "2e69e2b14c72a54724369fd3e42439c723b6f38a26c4dae29a8939bff07e9eef"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C014.txt",
+          "sha256": "fefbc13b3459b00afc9df664f6293815bb7ca997af2727c809d317386edf8701"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C015.txt",
+          "sha256": "3b36fe39c2fabcf4275f23207b081fdcee3230a79a663f02080c0ca0dee9e2c6"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M08/M08-C016.txt",
+          "sha256": "1f4c1d489657dac8d0da6b4a145a454bfa69df592fa3e6b98aed1aa57d0f92c6"
+        }
+      ],
+      "checks": {
+        "locked_csv_hash_matches": true,
+        "review_log_hash_matches": true,
+        "suggestions_hash_matches": true,
+        "jobs_manifest_hash_matches": true,
+        "inventory_hash_matches": true,
+        "scoring_guide_hash_matches": true,
+        "scoring_prompt_hash_matches": true,
+        "expected_row_count": true,
+        "unique_blind_component_pairs": true,
+        "all_rows_valid_and_reviewed": true,
+        "zero_unresolved_flags": true,
+        "sixteen_blinded_outputs": true
+      }
+    },
+    {
+      "measure_id": "M02",
+      "status": "PASS",
+      "row_count": 1040,
+      "blind_output_count": 16,
+      "unresolved_flag_count": 0,
+      "locked_scoring_csv": "results/cross_model_replication/claude_sonnet_5/locked_scoring/M02/M02_locked_scoring.csv",
+      "locked_scoring_sha256": "1d090d805088b865d89c8016c3c25d6c861be4084f1dc202040a9536188ac5c3",
+      "scoring_lock_manifest": "results/cross_model_replication/claude_sonnet_5/locked_scoring/M02/M02_scoring_lock_manifest.json",
+      "scoring_lock_manifest_sha256": "b1e8e6d0b02203f0ac96910cde3a15caea1d277f0fa2ae38bdb1afb0ac527eb6",
+      "review_log": "analysis/cross_model_replication/claude_sonnet_5/reviews/M02_review_log.jsonl",
+      "review_log_sha256": "8ef4ac43a5684ffdd29df28850c2c1dae80de259544fd737693acbb16b0cd3a7",
+      "blinded_outputs": [
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C001.txt",
+          "sha256": "96913b6bbeba78fa4c19b84d3fad2a39ee1b00f9579088697567334fdd69a76b"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C002.txt",
+          "sha256": "23ed0cca25175e8ea5ba2b66cd5b72306ce18c33ff57c07026b7a23bce689127"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C003.txt",
+          "sha256": "827f2afbea884a810e647f8d6725860592c995e3aa8d00eb91df02b278bbea7b"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C004.txt",
+          "sha256": "797d1090882192b95d0a96fc29d2cad6dacc601fa65970caf88379b92463e8eb"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C005.txt",
+          "sha256": "e1b2d66e8afb5141a11706035ce3c159887d032dd674a31b4977ae526bf2744d"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C006.txt",
+          "sha256": "0d08c259a92397cc5a3d2894ceae6caac3473271c69e332983c0705604b7cd52"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C007.txt",
+          "sha256": "bc862bb1ff90e39312ea122fc22399962cda6eb9cbb6d1dd3901b68fdac99266"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C008.txt",
+          "sha256": "f7c372315e79abd89067b8dae7cb1eda8362c2f1d0acff5df78df6ef497c808c"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C009.txt",
+          "sha256": "96dfaac8d29a31421ee0903974bb4f73c6ebc70f4c90c2bfb9af5adb97abbd72"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C010.txt",
+          "sha256": "90531b5ec4976187d2e1db66d0076219f56033f11bbf440413534a3285b70fd0"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C011.txt",
+          "sha256": "111ebc478ed30e6e0742eaee8b3f329a219daf96c16118a9c6e69510d56bf518"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C012.txt",
+          "sha256": "22cfeb8dcfca34b941f8dc1a65d41b3a80ed7c6df5b1b9dd05e0e161315ebd9a"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C013.txt",
+          "sha256": "4c0fc352c4beade9ca29f1c09ad6fabea9f8987487fab1031b210d538e452ee8"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C014.txt",
+          "sha256": "c157f00f3a96f3cb71be1eec8630388dc76fd685dcca1b5fa8ee834e691499b0"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C015.txt",
+          "sha256": "88e9dec2133a648903c13aba7e8802eb7de80358b21c229074af620f87b8fac9"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M02/M02-C016.txt",
+          "sha256": "e0b94483977bafc8992e384c778d39182ae886ec7495d44b978de57aa0f12bc1"
+        }
+      ],
+      "checks": {
+        "locked_csv_hash_matches": true,
+        "review_log_hash_matches": true,
+        "suggestions_hash_matches": true,
+        "jobs_manifest_hash_matches": true,
+        "inventory_hash_matches": true,
+        "scoring_guide_hash_matches": true,
+        "scoring_prompt_hash_matches": true,
+        "expected_row_count": true,
+        "unique_blind_component_pairs": true,
+        "all_rows_valid_and_reviewed": true,
+        "zero_unresolved_flags": true,
+        "sixteen_blinded_outputs": true
+      }
+    },
+    {
+      "measure_id": "M09",
+      "status": "PASS",
+      "row_count": 400,
+      "blind_output_count": 16,
+      "unresolved_flag_count": 0,
+      "locked_scoring_csv": "results/cross_model_replication/claude_sonnet_5/locked_scoring/M09/M09_locked_scoring.csv",
+      "locked_scoring_sha256": "92ab6eab8ef25e79b4fd0ad74c4e340b892ce93314dfbbc78b767e2d2c327568",
+      "scoring_lock_manifest": "results/cross_model_replication/claude_sonnet_5/locked_scoring/M09/M09_scoring_lock_manifest.json",
+      "scoring_lock_manifest_sha256": "2a76cb4400201f48f8b2f5754ac8e8de8951a48dfe5347d5f341d3868571cdc5",
+      "review_log": "analysis/cross_model_replication/claude_sonnet_5/reviews/M09_review_log.jsonl",
+      "review_log_sha256": "8fe9067dd98c51e6a36b9565f1db74ffa78bf8e08bba79f667312bf1b6b84433",
+      "blinded_outputs": [
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C001.txt",
+          "sha256": "3ed7e9f935121cef9a44f3bf6727daf46eb6d6f698cee43c5cae59cc31e98982"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C002.txt",
+          "sha256": "3a076921e4abbbfc5f08da4e323e58f4d49a1a4b8e4e7ead3e426a9f18812b1a"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C003.txt",
+          "sha256": "8ee9ac49597bd3239c48cf3f5b4b194969fe623b714f81e0d389d9b85aec8304"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C004.txt",
+          "sha256": "fb72a640d15a06d9640d549ddf0a39d4f99814bedc53d90364a95e1719795c9e"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C005.txt",
+          "sha256": "46e65bc09b47d77a7cc362fd80223507033a8f769a4b7d0a10f7ec3f3d3f8d1b"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C006.txt",
+          "sha256": "43d4acfc684b9e72229ca12f8c1a4cad4e71efe64e0d288060671be916648867"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C007.txt",
+          "sha256": "2cfbf4693553d262a024c116734bf24f7067ee8a5bd16a64cbbe314529139e14"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C008.txt",
+          "sha256": "07a01593a973b97d27b6ff93266490f66531101dffbb13d12a1cea4813f03bb4"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C009.txt",
+          "sha256": "3bdcba7c64d63924f9fbdf361fd82d9993466893f898ea443aed82ef9eebe60e"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C010.txt",
+          "sha256": "f09a2068a8bb865a2023a49f6c10d3b9877fa158c937ae3db3a3df3864f98486"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C011.txt",
+          "sha256": "a427d2628256508e60e4a553db25f43fa6a944d591fde1fe6b89c4bcb3a1289e"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C012.txt",
+          "sha256": "fd922e729feb980aede6e0b4cc068053828a254baeaf3e3c758e6a459376bf94"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C013.txt",
+          "sha256": "56584608797e67237ce0b6a2b64a6dfc8fb83d390aff9c27209cfcfd330f284c"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C014.txt",
+          "sha256": "f8425e27f31ebb1010720b7409767dcf3670bbb192e8f50196a5f78027675940"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C015.txt",
+          "sha256": "13003527c17ab780d09b6b829a2cd31b382c0ff28968a5b72df6f0b02747b0f6"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M09/M09-C016.txt",
+          "sha256": "1a1b01e5bd8b0b9b2cdd5fda3ced0a417244393b02c38c94f4eeb769f9a5e00e"
+        }
+      ],
+      "checks": {
+        "locked_csv_hash_matches": true,
+        "review_log_hash_matches": true,
+        "suggestions_hash_matches": true,
+        "jobs_manifest_hash_matches": true,
+        "inventory_hash_matches": true,
+        "scoring_guide_hash_matches": true,
+        "scoring_prompt_hash_matches": true,
+        "expected_row_count": true,
+        "unique_blind_component_pairs": true,
+        "all_rows_valid_and_reviewed": true,
+        "zero_unresolved_flags": true,
+        "sixteen_blinded_outputs": true
+      }
+    },
+    {
+      "measure_id": "M05",
+      "status": "PASS",
+      "row_count": 1024,
+      "blind_output_count": 16,
+      "unresolved_flag_count": 0,
+      "locked_scoring_csv": "results/cross_model_replication/claude_sonnet_5/locked_scoring/M05/M05_locked_scoring.csv",
+      "locked_scoring_sha256": "f418e2a4ed17d50850e1faf2564901961feb48d19cc8d8f969eff43e17d8b1f6",
+      "scoring_lock_manifest": "results/cross_model_replication/claude_sonnet_5/locked_scoring/M05/M05_scoring_lock_manifest.json",
+      "scoring_lock_manifest_sha256": "ecfcd29781685fc496513488183014b508df86de845b0c018ff017fc920826b5",
+      "review_log": "analysis/cross_model_replication/claude_sonnet_5/reviews/M05_review_log.jsonl",
+      "review_log_sha256": "adbd5ea8ba1ecb8f7802036e94c03313ba5c40258e5842eb6ffabe65310f7506",
+      "blinded_outputs": [
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C001.txt",
+          "sha256": "5696a5af7992e61e4bd8d96073697f3a8b6e90c82094a70d94dd29e2eee4a1c1"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C002.txt",
+          "sha256": "5d0a75383dba196992970965c4b2a94b99fadcf7704cbe15f8b432ec77a35202"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C003.txt",
+          "sha256": "e4037d14cde77ad154403dc8a505f8c215abd0186ed7d1110d14158826ee9d3f"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C004.txt",
+          "sha256": "8d8909d48d78b9d4528d064ff0bc5f68fe45a52d63d30e3291574817c6a83bd5"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C005.txt",
+          "sha256": "9e93bb9d9ba7df389f11534d29317bef7e62a757f9877158ea28019a2e4f3862"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C006.txt",
+          "sha256": "097a251cbea72a353947a845007eda1178bf9a19e4cfce2e55680c39c8f2a9e2"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C007.txt",
+          "sha256": "3773184cf3258505d3c9d5bdfc06b6bfda927a7a8889f6d6c5076909b6704b39"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C008.txt",
+          "sha256": "25faa9807cb8be3b0223cdb1c7308e1a11d1a5f484228f3a9f85dc78f485767d"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C009.txt",
+          "sha256": "d977e705552310026b937d5850c7c74e8eab9002d78609dc2a93ef3d6ebe450f"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C010.txt",
+          "sha256": "2cf9d2a9bb434612351ff1047aaf416fcf311b753e76de5f2fa546064b0f5501"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C011.txt",
+          "sha256": "e73a2db142276b9d96cd65e1db8b9a01f239b580e3c296e4b59e8945194d07fc"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C012.txt",
+          "sha256": "8b2f03155af25d22d54c45c749cb14d08efa133ff231426a7ab4a98dd9b64b21"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C013.txt",
+          "sha256": "e1dfa34fcff50045830bf86598c5f0c9ea73ee18b6a86f7b02d3dbc36664dcea"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C014.txt",
+          "sha256": "b87afe23f6424159b8d76262b783c1403b144cc4fef68de5f26f664e412ad30c"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C015.txt",
+          "sha256": "312f0a1dcea106d9379659163bf0b172d396d91d580e74bd3ab8f2a416518197"
+        },
+        {
+          "path": "runs/cross_model_replication/claude_sonnet_5/blinded/M05/M05-C016.txt",
+          "sha256": "411ebcbb6029ae15f03d731ba9e15e1078e440e88e3a377774ce7e0546d6290c"
+        }
+      ],
+      "checks": {
+        "locked_csv_hash_matches": true,
+        "review_log_hash_matches": true,
+        "suggestions_hash_matches": true,
+        "jobs_manifest_hash_matches": true,
+        "inventory_hash_matches": true,
+        "scoring_guide_hash_matches": true,
+        "scoring_prompt_hash_matches": true,
+        "expected_row_count": true,
+        "unique_blind_component_pairs": true,
+        "all_rows_valid_and_reviewed": true,
+        "zero_unresolved_flags": true,
+        "sixteen_blinded_outputs": true
+      }
+    }
+  ],
+  "requirements": {
+    "five_of_five_measures_locked": true,
+    "eighty_of_eighty_final_outputs": true,
+    "three_thousand_eight_hundred_forty_locked_rows": true,
+    "zero_unresolved_flags": true,
+    "frozen_protocol_hash_matches": true,
+    "all_measure_checks_pass": true
+  }
+}

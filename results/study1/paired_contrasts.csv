@@ -1,0 +1,31 @@
+measure_id,contrast,contrast_label,n_trials_per_condition,claim_weighted_preservation_difference,component_weighted_preservation_difference,mean_component_distortion_severity_difference,any_distortion_rate_difference,material_distortion_rate_difference
+M02,independent_ensemble_minus_single_agent,Independent − single,4,0.046780303030303005,0.03076923076923077,-0.0038461538461538464,-0.0038461538461538464,0.0
+M02,normal_debate_minus_independent_ensemble,Normal debate − independent,4,0.012878787878787823,0.011538461538461608,0.015384615384615385,0.015384615384615385,0.0
+M02,critic_debate_minus_normal_debate,Critic debate − normal debate,4,0.09905303030303048,0.10384615384615381,0.0,0.0,0.0
+M03,independent_ensemble_minus_single_agent,Independent − single,4,0.0008403361344537785,-0.04741379310344829,0.04310344827586207,0.04310344827586207,0.0
+M03,normal_debate_minus_independent_ensemble,Normal debate − independent,4,0.011589635854341807,0.012931034482758563,-0.01724137931034483,-0.01724137931034483,0.0
+M03,critic_debate_minus_normal_debate,Critic debate − normal debate,4,-0.013830532212885216,0.012931034482758674,0.012931034482758622,0.012931034482758622,0.0
+M04,independent_ensemble_minus_single_agent,Independent − single,4,0.0,0.0,0.0,0.0,0.0
+M04,normal_debate_minus_independent_ensemble,Normal debate − independent,4,0.0,0.0,0.0,0.0,0.0
+M04,critic_debate_minus_normal_debate,Critic debate − normal debate,4,0.0,0.0,0.0,0.0,0.0
+M05,independent_ensemble_minus_single_agent,Independent − single,4,-0.0014705882352941124,0.0,0.0234375,0.0234375,0.0
+M05,normal_debate_minus_independent_ensemble,Normal debate − independent,4,0.0017156862745096868,0.0,0.0,0.0,0.0
+M05,critic_debate_minus_normal_debate,Critic debate − normal debate,4,0.14313725490196083,0.1484375,0.03125,0.03125,0.0
+M06,independent_ensemble_minus_single_agent,Independent − single,4,0.0,0.0,0.0,0.0,0.0
+M06,normal_debate_minus_independent_ensemble,Normal debate − independent,4,-0.02083333333333326,-0.02586206896551735,0.0,0.0,0.0
+M06,critic_debate_minus_normal_debate,Critic debate − normal debate,4,0.02777777777777768,0.034482758620689724,0.0,0.0,0.0
+M07,independent_ensemble_minus_single_agent,Independent − single,4,0.0,0.0,0.0,0.0,0.0
+M07,normal_debate_minus_independent_ensemble,Normal debate − independent,4,-0.0078125,-0.011363636363636354,0.0,0.0,0.0
+M07,critic_debate_minus_normal_debate,Critic debate − normal debate,4,0.0078125,0.011363636363636354,0.0,0.0,0.0
+M08,independent_ensemble_minus_single_agent,Independent − single,4,0.04675925925925928,0.0535714285714286,-0.04464285714285714,-0.04464285714285714,0.0
+M08,normal_debate_minus_independent_ensemble,Normal debate − independent,4,0.008333333333333415,0.008928571428571508,0.008928571428571428,0.008928571428571428,0.0
+M08,critic_debate_minus_normal_debate,Critic debate − normal debate,4,0.008333333333333304,0.008928571428571397,0.017857142857142856,0.017857142857142856,0.0
+M09,independent_ensemble_minus_single_agent,Independent − single,4,0.016666666666666607,0.020000000000000018,-0.010000000000000002,-0.020000000000000004,0.01
+M09,normal_debate_minus_independent_ensemble,Normal debate − independent,4,-0.008333333333333304,-0.010000000000000009,-0.010000000000000002,0.010000000000000002,-0.02
+M09,critic_debate_minus_normal_debate,Critic debate − normal debate,4,0.0,0.0,0.020000000000000004,0.0,0.02
+M10,independent_ensemble_minus_single_agent,Independent − single,4,-0.017045454545454586,-0.016129032258064613,0.03225806451612903,0.024193548387096774,0.008064516129032258
+M10,normal_debate_minus_independent_ensemble,Normal debate − independent,4,-0.017045454545454475,-0.008064516129032251,-0.008064516129032258,0.0,-0.008064516129032258
+M10,critic_debate_minus_normal_debate,Critic debate − normal debate,4,0.03409090909090906,0.024193548387096753,-0.024193548387096774,-0.024193548387096774,0.0
+M11,independent_ensemble_minus_single_agent,Independent − single,4,0.0336805555555556,0.030303030303030276,0.022727272727272728,0.022727272727272728,0.0
+M11,normal_debate_minus_independent_ensemble,Normal debate − independent,4,-0.007986111111111138,0.007575757575757569,0.03787878787878787,0.03787878787878787,0.0
+M11,critic_debate_minus_normal_debate,Critic debate − normal debate,4,0.006250000000000089,0.00757575757575768,-0.007575757575757569,-0.007575757575757569,0.0
